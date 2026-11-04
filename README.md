@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Personal site
 
-## Getting Started
-
-First, run the development server:
+Photography first; writing and resume to follow. Next.js 16 (App Router, Cache Components), Tailwind v4, Yarn 4.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+yarn dev     # http://localhost:3000
+yarn build && yarn start
+yarn photos  # rebuild content/photos.json from public/photos
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Photography (`/photos`)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Three viewing modes, switchable from the button in each mode (the `…` button on phones, the toolbar menu on desktop). The choice is kept in `localStorage` and in the URL as `?mode=library|museum|contact`.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Library** (default): mirrors iOS Photos on phones and macOS Photos on desktop, with Years / Months / Days / All Photos views and a full-screen viewer.
+- **Museum**: each photo framed and matted on a gallery wall, one room per month. Scroll, drag, swipe, or use arrow keys to walk the hall.
+- **Contact Sheet**: 35mm proof strips, one roll per month.
 
-## Learn More
+### Adding your photos
 
-To learn more about Next.js, take a look at the following resources:
+1. Drop JPEG/PNG/WebP files into `public/photos/`.
+2. Run `yarn photos`. It reads dimensions and EXIF (date taken, camera) with `sharp` and `exifr`, generates blur placeholders, and writes `content/photos.json`.
+3. Optionally edit `title` and `location` per photo in `content/photos.json`. Re-running `yarn photos` keeps those edits (matched by filename).
+4. Delete the `picsum.photos` entry from `images.remotePatterns` in `next.config.ts` once no placeholders remain.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+`takenAt` is wall-clock time with no timezone, as EXIF records it. Grouping and display use it as-is.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Set your name and tagline in `src/lib/site.ts`.
