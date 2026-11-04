@@ -40,5 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# original photos (5+ GB, far too large for git); derivatives are generated
-/public/photos/
+# original photos (5+ GB, far too large for git). `yarn photos` writes
+# web-sized derivatives to public/photos, which are committed.
+/photos-original/

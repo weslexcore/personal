@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { fmt, groupPhotos } from "@/lib/dates";
 import type { Photo } from "@/lib/photos";
@@ -8,6 +7,7 @@ import { site } from "@/lib/site";
 import type { ModeProps } from "../PhotoGallery";
 import { setPhotoParam } from "../modes";
 import { ModeMenu } from "../ModeMenu";
+import { Pic } from "../Pic";
 import { ChevronDown, ChevronLeft, ChevronRight, Frame } from "../Icons";
 
 export function MuseumMode({ photos, onOpen, mode, onModeChange, initialPhotoId }: ModeProps) {
@@ -259,15 +259,9 @@ function FramedPhoto({ photo, onOpen }: { photo: Photo; onOpen: (p: Photo) => vo
             className="relative"
             style={{ aspectRatio: `${photo.width} / ${photo.height}`, height }}
           >
-            <Image
-              src={photo.src}
-              alt={photo.title ?? ""}
-              fill
+            <Pic
+              photo={photo}
               sizes={landscape ? "(max-width: 768px) 72vw, 50vw" : "(max-width: 768px) 56vw, 32vw"}
-              placeholder={photo.blurDataURL ? "blur" : "empty"}
-              blurDataURL={photo.blurDataURL}
-              draggable={false}
-              className="object-cover select-none"
             />
           </div>
         </div>

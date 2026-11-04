@@ -1,7 +1,7 @@
 "use client";
 
-import Image from "next/image";
 import type { Photo } from "@/lib/photos";
+import { Pic } from "../Pic";
 
 type Props = {
   photos: Photo[];
@@ -27,16 +27,7 @@ export function Grid({ photos, columns, gap, onOpen, sizes, rounded }: Props) {
             rounded ? "rounded-[3px]" : ""
           }`}
         >
-          <Image
-            src={p.src}
-            alt={p.title ?? ""}
-            fill
-            sizes={sizes}
-            placeholder={p.blurDataURL ? "blur" : "empty"}
-            blurDataURL={p.blurDataURL}
-            className="object-cover select-none"
-            draggable={false}
-          />
+          <Pic photo={p} sizes={sizes} />
         </button>
       ))}
     </div>

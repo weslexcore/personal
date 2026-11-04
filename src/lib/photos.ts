@@ -1,9 +1,19 @@
 import manifest from "../../content/photos.json";
 
+export type PhotoSource = {
+  /** Public path of a WebP derivative, e.g. "/photos/DSCF7963-1600.webp". */
+  src: string;
+  w: number;
+  h: number;
+};
+
 export type Photo = {
   id: string;
-  /** Public path ("/photos/x.jpg") or remote URL. */
+  /** Largest derivative; used as the fallback src and for sharing. */
   src: string;
+  /** Derivatives, smallest first. */
+  srcset: PhotoSource[];
+  /** Original pixel dimensions (after EXIF rotation). */
   width: number;
   height: number;
   /**

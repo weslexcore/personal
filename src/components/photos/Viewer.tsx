@@ -1,11 +1,11 @@
 "use client";
 
-import Image from "next/image";
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { Photo } from "@/lib/photos";
 import { fmt } from "@/lib/dates";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
 import { ChevronLeft, ChevronRight, Close, Heart, Info, Share } from "./Icons";
+import { Pic } from "./Pic";
 
 type Props = {
   photos: Photo[];
@@ -159,17 +159,7 @@ export function Viewer({ photos, initialIndex, onClose, onIndexChange }: Props) 
             }`}
           >
             <div className="relative h-full w-full">
-              <Image
-                src={p.src}
-                alt={p.title ?? ""}
-                fill
-                sizes="100vw"
-                priority={Math.abs(i - index) <= 1}
-                placeholder={p.blurDataURL ? "blur" : "empty"}
-                blurDataURL={p.blurDataURL}
-                className="object-contain select-none"
-                draggable={false}
-              />
+              <Pic photo={p} sizes="100vw" fit="contain" priority={Math.abs(i - index) <= 1} />
             </div>
           </div>
         ))}
@@ -210,7 +200,7 @@ export function Viewer({ photos, initialIndex, onClose, onIndexChange }: Props) 
                 i === index ? "w-16 ring-2 ring-white" : "w-8 opacity-70 hover:opacity-100"
               }`}
             >
-              <Image src={p.src} alt="" fill sizes="64px" className="object-cover" />
+              <Pic photo={p} sizes="64px" />
             </button>
           ))}
         </footer>

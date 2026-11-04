@@ -5,7 +5,7 @@ Photography first; writing and resume to follow. Next.js 16 (App Router, Cache C
 ```bash
 yarn dev     # http://localhost:3000
 yarn build && yarn start
-yarn photos  # rebuild content/photos.json from public/photos
+yarn photos  # encode photos-original/ → public/photos/ and rebuild content/photos.json
 ```
 
 ## Photography (`/photos`)
@@ -18,10 +18,12 @@ Three viewing modes, switchable from the button in each mode (the `…` button o
 
 ### Adding your photos
 
-1. Drop JPEG/PNG/WebP files into `public/photos/`.
-2. Run `yarn photos`. It reads dimensions and EXIF (date taken, camera) with `sharp` and `exifr`, generates blur placeholders, and writes `content/photos.json`.
-3. Optionally edit `title` and `location` per photo in `content/photos.json`. Re-running `yarn photos` keeps those edits (matched by filename).
-4. Delete the `picsum.photos` entry from `images.remotePatterns` in `next.config.ts` once no placeholders remain.
+1. Put your originals (full-size JPEG/PNG/HEIC/etc.) in `photos-original/`. That folder is gitignored; keep it backed up elsewhere.
+2. Run `yarn photos`. For each original it writes WebP derivatives at 480, 960, 1600 and 2400px on the long edge to `public/photos/`, reads EXIF (date taken, camera), generates a blur placeholder, and writes `content/photos.json`. Re-runs are incremental; `yarn photos --force` re-encodes everything. Derivatives whose original has been removed are deleted.
+3. Commit `public/photos/` and `content/photos.json`. They are plain static files, so Vercel serves them from the CDN with no image transformations.
+4. Optionally edit `title` and `location` per photo in `content/photos.json`. Re-running `yarn photos` keeps those edits (matched by filename).
+
+Images are rendered by `src/components/photos/Pic.tsx` with a native `srcset`, so the browser picks the smallest derivative that covers the slot. `next/image` is not used.
 
 `takenAt` is wall-clock time with no timezone, as EXIF records it. Grouping and display use it as-is.
 

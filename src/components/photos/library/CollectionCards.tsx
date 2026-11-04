@@ -1,7 +1,7 @@
 "use client";
 
-import Image from "next/image";
 import type { Group } from "@/lib/dates";
+import { Pic } from "../Pic";
 
 type Props = {
   groups: Group[];
@@ -27,14 +27,10 @@ export function CollectionCards({ groups, columns, onSelect, aspect = "4 / 5", s
             className="relative overflow-hidden rounded-xl bg-neutral-200 text-left text-white outline-none focus-visible:ring-2 focus-visible:ring-ios-blue dark:bg-neutral-800"
             style={{ aspectRatio: aspect }}
           >
-            <Image
-              src={cover.src}
-              alt=""
-              fill
+            <Pic
+              photo={cover}
               sizes={sizes}
-              placeholder={cover.blurDataURL ? "blur" : "empty"}
-              blurDataURL={cover.blurDataURL}
-              className="object-cover transition-transform duration-500 hover:scale-[1.03]"
+              className="transition-transform duration-500 hover:scale-[1.03]"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/5 to-black/20" />
             <div className="absolute left-4 top-4 drop-shadow-md">

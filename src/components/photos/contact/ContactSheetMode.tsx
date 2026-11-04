@@ -1,11 +1,11 @@
 "use client";
 
-import Image from "next/image";
 import { useMemo } from "react";
 import { fmt, groupPhotos } from "@/lib/dates";
 import { site } from "@/lib/site";
 import type { ModeProps } from "../PhotoGallery";
 import { ModeMenu } from "../ModeMenu";
+import { Pic } from "../Pic";
 import { ChevronDown, Film } from "../Icons";
 
 export function ContactSheetMode({ photos, onOpen, mode, onModeChange }: ModeProps) {
@@ -61,14 +61,10 @@ export function ContactSheetMode({ photos, onOpen, mode, onModeChange }: ModePro
                     className="film-cell group relative px-1 pb-[18px] pt-[18px] outline-none"
                   >
                     <div className="relative aspect-[3/2] overflow-hidden bg-neutral-900 ring-1 ring-white/5 transition group-hover:ring-[#e8a33d]/70 group-focus-visible:ring-[#e8a33d]">
-                      <Image
-                        src={p.src}
-                        alt={p.title ?? ""}
-                        fill
+                      <Pic
+                        photo={p}
                         sizes="(max-width: 640px) 33vw, (max-width: 768px) 25vw, 180px"
-                        placeholder={p.blurDataURL ? "blur" : "empty"}
-                        blurDataURL={p.blurDataURL}
-                        className="object-cover opacity-90 transition group-hover:opacity-100"
+                        className="opacity-90 transition group-hover:opacity-100"
                       />
                     </div>
                     <span className="grease absolute bottom-[3px] left-2 text-[9px] font-bold tracking-wider text-[#e8a33d]">

@@ -3,10 +3,9 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   cacheComponents: true,
   partialPrefetching: true,
-  images: {
-    // Placeholder images only. Delete once content/photos.json points at /photos/*.
-    remotePatterns: [{ protocol: "https", hostname: "picsum.photos" }],
-  },
+  // Photos are pre-sized WebP derivatives served as static files (see
+  // scripts/build-photo-manifest.mjs); next/image and its optimizer are unused.
+  images: { unoptimized: true },
   turbopack: {
     rules: {
       "*.css": {
