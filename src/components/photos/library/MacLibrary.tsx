@@ -7,15 +7,22 @@ import { site } from "@/lib/site";
 import type { ModeProps } from "../PhotoGallery";
 import { ModeMenu } from "../ModeMenu";
 import { ChevronDown, Film, Frame, Grid as GridIcon, Photo } from "../Icons";
+import { HomeContent } from "@/components/HomeContent";
 import { Grid } from "./Grid";
 import { CollectionCards } from "./CollectionCards";
 import { VIEWS, type LibraryView } from "./LibraryMode";
 
 const MODE_ICON = { library: GridIcon, museum: Frame, contact: Film };
 
+const light =
+  "flex h-3 w-3 items-center justify-center rounded-full ring-1 ring-black/10 outline-none focus-visible:ring-2 focus-visible:ring-ios-blue";
+const glyph = "h-2 w-2 opacity-0 transition-opacity group-hover:opacity-100";
+
 export function MacLibrary({ photos, onOpen, mode, onModeChange }: ModeProps) {
   const [view, setView] = useState<LibraryView>("all");
   const [columns, setColumns] = useState(7);
+  // Green light toggles between full screen and a floating window over the home page.
+  const [windowed, setWindowed] = useState(false);
   const scroller = useRef<HTMLDivElement>(null);
 
   const years = useMemo(() => groupPhotos(photos, "year"), [photos]);
@@ -32,21 +39,65 @@ export function MacLibrary({ photos, onOpen, mode, onModeChange }: ModeProps) {
   const modeLabel = mode === "library" ? "Library" : mode === "museum" ? "Museum" : "Contact Sheet";
 
   return (
-    <div className="fixed inset-0 flex bg-[#f6f6f6] font-system text-[13px] text-neutral-900 dark:bg-[#1e1e1e] dark:text-neutral-100">
+    <div className="fixed inset-0 font-system text-[13px] text-neutral-900 dark:text-neutral-100">
+      {/* The home page, visible behind the window when it isn't full screen */}
+      <div
+        aria-hidden={!windowed}
+        className={`absolute inset-0 bg-white font-sans transition-opacity duration-300 dark:bg-black ${
+          windowed ? "opacity-100" : "pointer-events-none opacity-0"
+        }`}
+      >
+        <div className="flex h-full w-[30vw] min-w-[340px] flex-col">
+          <HomeContent />
+        </div>
+      </div>
 
-      {/* Main */}
-      <section className="flex min-w-0 flex-1 flex-col">
+      {/* The Photos window */}
+      <section
+        className={`absolute flex min-w-0 flex-col overflow-hidden bg-[#f6f6f6] transition-[inset,border-radius] duration-300 ease-[cubic-bezier(.2,.8,.2,1)] dark:bg-[#1e1e1e] ${
+          windowed
+            ? "bottom-[6vh] left-[max(30vw,340px)] right-[4vw] top-[7vh] rounded-xl shadow-[0_30px_80px_-20px_rgba(0,0,0,.6)] ring-1 ring-black/20 dark:ring-white/15"
+            : "inset-0"
+        }`}
+      >
         <header className="relative z-30 flex h-[52px] shrink-0 items-center gap-3 border-b border-black/10 bg-white/80 px-4 backdrop-blur-xl dark:border-white/10 dark:bg-[#2b2b2d]/90">
-          <Link
-            href="/"
-            aria-label="Close and return to the home page"
-            title="Close"
-            className="group flex h-3 w-3 items-center justify-center rounded-full bg-[#ff5f57] text-[#4d0000] ring-1 ring-black/10 outline-none focus-visible:ring-2 focus-visible:ring-ios-blue"
-          >
-            <svg viewBox="0 0 12 12" className="h-2 w-2 opacity-0 transition-opacity group-hover:opacity-100" aria-hidden>
-              <path d="M3 3l6 6M9 3l-6 6" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
-            </svg>
-          </Link>
+          <div className="group flex items-center gap-2">
+            <Link
+              href="/"
+              aria-label="Close and return to the home page"
+              title="Close"
+              className={`${light} bg-[#ff5f57] text-[#4d0000]`}
+            >
+              <svg viewBox="0 0 12 12" className={glyph} aria-hidden>
+                <path d="M3 3l6 6M9 3l-6 6" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+              </svg>
+            </Link>
+            <Link
+              href="/"
+              aria-label="Minimize and return to the home page"
+              title="Minimize"
+              className={`${light} bg-[#febc2e] text-[#5a3b00]`}
+            >
+              <svg viewBox="0 0 12 12" className={glyph} aria-hidden>
+                <path d="M2.5 6h7" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+              </svg>
+            </Link>
+            <button
+              onClick={() => setWindowed((w) => !w)}
+              aria-label={windowed ? "Enter full screen" : "Exit full screen"}
+              aria-pressed={windowed}
+              title={windowed ? "Enter Full Screen" : "Exit Full Screen"}
+              className={`${light} bg-[#28c840] text-[#0a4a14]`}
+            >
+              <svg viewBox="0 0 12 12" className={glyph} aria-hidden>
+                {windowed ? (
+                  <path d="M2.5 6.5v3h3zM9.5 5.5v-3h-3z" fill="currentColor" />
+                ) : (
+                  <path d="M6.5 2.5h3v3zM5.5 9.5h-3v-3z" fill="currentColor" />
+                )}
+              </svg>
+            </button>
+          </div>
           <h1 className="ml-2 text-[15px] font-bold">Library</h1>
           <div className="flex-1" />
 
