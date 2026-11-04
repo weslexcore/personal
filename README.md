@@ -10,7 +10,7 @@ yarn photos  # encode photos-original/ → public/photos/ and rebuild content/ph
 
 ## Photography (`/photos`)
 
-Three viewing modes, switchable from the button in each mode (the `…` button on phones, the toolbar menu on desktop). The choice is kept in `localStorage` and in the URL as `?mode=library|museum|contact`.
+Three viewing modes, switchable from the button in each mode (the `…` button on phones, the toolbar menu on desktop). The choice is kept in `localStorage` and in the URL as `?mode=library|museum|contact`. The Museum and Contact Sheet show the newest photos first; their sort toggle is kept as `?sort=oldest`. A photo is `?photo=<id>`, and `?window=1` opens the desktop Library as a floating window over the home page.
 
 - **Library** (default): mirrors iOS Photos on phones and macOS Photos on desktop, with Years / Months / Days / All Photos views and a full-screen viewer.
 - **Museum**: each photo framed and matted on a gallery wall, one room per month. Scroll, drag, swipe, or use arrow keys to walk the hall.

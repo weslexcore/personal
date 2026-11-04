@@ -8,20 +8,42 @@ import type { ModeProps } from "../PhotoGallery";
 import { setPhotoParam } from "../modes";
 import { ModeMenu } from "../ModeMenu";
 import { Pic } from "../Pic";
-import { ChevronDown, ChevronLeft, ChevronRight, Frame } from "../Icons";
+import {
+  ArrowsUpDown,
+  ChevronDown,
+  ChevronLeft,
+  ChevronRight,
+  Frame,
+} from "../Icons";
 
-export function MuseumMode({ photos, onOpen, mode, onModeChange, initialPhotoId }: ModeProps) {
+export function MuseumMode({
+  photos,
+  onOpen,
+  mode,
+  onModeChange,
+  initialPhotoId,
+  sort,
+  onSortChange,
+}: ModeProps) {
   const scroller = useRef<HTMLDivElement>(null);
   const [current, setCurrent] = useState(0);
   const rooms = useMemo(() => groupPhotos(photos, "month"), [photos]);
+  const years = useMemo(() => {
+    const a = fmt("year", photos[0].takenAt);
+    const b = fmt("year", photos[photos.length - 1].takenAt);
+    return a < b ? `${a}–${b}` : a > b ? `${b}–${a}` : a;
+  }, [photos]);
 
   // A shared link lands you in front of that photo.
   useEffect(() => {
     if (!initialPhotoId) return;
     const el = scroller.current;
-    const target = el?.querySelector<HTMLElement>(`[data-frame="${CSS.escape(initialPhotoId)}"]`);
+    const target = el?.querySelector<HTMLElement>(
+      `[data-frame="${CSS.escape(initialPhotoId)}"]`,
+    );
     if (!el || !target) return;
-    el.scrollLeft = target.offsetLeft + target.offsetWidth / 2 - el.clientWidth / 2;
+    el.scrollLeft =
+      target.offsetLeft + target.offsetWidth / 2 - el.clientWidth / 2;
   }, [initialPhotoId]);
 
   // Vertical wheel walks you down the hall; drag to pan with a mouse.
@@ -102,7 +124,11 @@ export function MuseumMode({ photos, onOpen, mode, onModeChange, initialPhotoId 
     if (!el) return;
     const frames = el.querySelectorAll<HTMLElement>("[data-frame]");
     const f = frames[Math.max(0, Math.min(frames.length - 1, i))];
-    f?.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+    f?.scrollIntoView({
+      behavior: "smooth",
+      inline: "center",
+      block: "nearest",
+    });
   }, []);
 
   useEffect(() => {
@@ -126,16 +152,18 @@ export function MuseumMode({ photos, onOpen, mode, onModeChange, initialPhotoId 
       >
         {/* Entrance */}
         <section className="flex h-full w-[88vw] shrink-0 flex-col justify-center pl-[8vw] pr-[6vw] md:w-[60vw] md:pl-[7vw]">
-          <p className="text-[11px] uppercase tracking-[0.35em] text-[#9fb3a4]">Exhibition</p>
+          <p className="text-[11px] uppercase tracking-[0.35em] text-[#9fb3a4]">
+            Exhibition
+          </p>
           <h1 className="mt-3 text-[clamp(2.4rem,7vw,5.5rem)] font-medium leading-[0.95] tracking-tight">
             {site.photographer}
           </h1>
           <p className="mt-5 max-w-sm text-lg italic text-[#c3cdbf]">
-            {photos.length} photographs in {rooms.length} rooms, {fmt("year", photos[0].takenAt)}–
-            {fmt("year", photos[photos.length - 1].takenAt)}.
+            {photos.length} photographs in {rooms.length} rooms, {years}.
           </p>
           <p className="mt-10 flex items-center gap-2 text-sm text-[#9fb3a4]">
-            Scroll, drag, or use the arrow keys to walk <ChevronRight width={16} height={16} />
+            Scroll, drag, or use the arrow keys to walk{" "}
+            <ChevronRight width={16} height={16} />
           </p>
         </section>
 
@@ -143,10 +171,20 @@ export function MuseumMode({ photos, onOpen, mode, onModeChange, initialPhotoId 
           <div key={room.key} className="flex h-full shrink-0 items-stretch">
             {/* Room label on the wall */}
             <section className="flex h-full w-[46vw] shrink-0 flex-col justify-center px-[4vw] md:w-[30vw]">
-              <p className="text-[11px] uppercase tracking-[0.35em] text-[#9fb3a4]">Room {r + 1}</p>
-              <h2 className="mt-2 text-[clamp(1.6rem,3.2vw,2.6rem)] font-medium leading-tight">{room.label}</h2>
-              {room.sublabel && <p className="mt-1 text-base italic text-[#c3cdbf]">{room.sublabel}</p>}
-              <p className="mt-3 text-sm text-[#9fb3a4]">{room.photos.length} works</p>
+              <p className="text-[11px] uppercase tracking-[0.35em] text-[#9fb3a4]">
+                Room {r + 1}
+              </p>
+              <h2 className="mt-2 text-[clamp(1.6rem,3.2vw,2.6rem)] font-medium leading-tight">
+                {room.label}
+              </h2>
+              {room.sublabel && (
+                <p className="mt-1 text-base italic text-[#c3cdbf]">
+                  {room.sublabel}
+                </p>
+              )}
+              <p className="mt-3 text-sm text-[#9fb3a4]">
+                {room.photos.length} works
+              </p>
             </section>
 
             {room.photos.map((p) => (
@@ -167,8 +205,12 @@ export function MuseumMode({ photos, onOpen, mode, onModeChange, initialPhotoId 
 
         {/* Exit */}
         <section className="flex h-full w-[70vw] shrink-0 flex-col justify-center px-[8vw] md:w-[40vw]">
-          <p className="text-[11px] uppercase tracking-[0.35em] text-[#9fb3a4]">Exit</p>
-          <p className="mt-3 text-2xl italic text-[#c3cdbf]">Thank you for visiting.</p>
+          <p className="text-[11px] uppercase tracking-[0.35em] text-[#9fb3a4]">
+            Exit
+          </p>
+          <p className="mt-3 text-2xl italic text-[#c3cdbf]">
+            Thank you for visiting.
+          </p>
           <button
             onClick={() => walkTo(0)}
             className="mt-6 flex w-fit items-center gap-1 text-sm text-[#9fb3a4] underline-offset-4 hover:underline"
@@ -181,7 +223,10 @@ export function MuseumMode({ photos, onOpen, mode, onModeChange, initialPhotoId 
       {/* Floor and baseboard, fixed over the hall */}
       <div className="pointer-events-none absolute inset-x-0 bottom-0 h-[22vh]">
         <div className="baseboard absolute inset-x-0 top-0 h-3" />
-        <div className="floor absolute inset-x-0 bottom-0 top-3" style={{ ["--walk" as string]: "inherit" }} />
+        <div
+          className="floor absolute inset-x-0 bottom-0 top-3"
+          style={{ ["--walk" as string]: "inherit" }}
+        />
       </div>
 
       {/* HUD */}
@@ -205,6 +250,19 @@ export function MuseumMode({ photos, onOpen, mode, onModeChange, initialPhotoId 
             </button>
           )}
         />
+        <button
+          onClick={() => onSortChange(sort === "newest" ? "oldest" : "newest")}
+          aria-label={
+            sort === "newest"
+              ? "Sorted newest first. Switch to oldest first"
+              : "Sorted oldest first. Switch to newest first"
+          }
+          title="Change sort order"
+          className="placard flex h-9 items-center gap-2 rounded-full px-3.5 font-sans text-[13px] font-medium text-neutral-900"
+        >
+          <ArrowsUpDown width={15} height={15} />
+          {sort === "newest" ? "Newest first" : "Oldest first"}
+        </button>
       </div>
 
       <div className="absolute bottom-4 right-4 z-30 flex items-center gap-2 md:bottom-6 md:right-6">
@@ -234,7 +292,13 @@ export function MuseumMode({ photos, onOpen, mode, onModeChange, initialPhotoId 
   );
 }
 
-function FramedPhoto({ photo, onOpen }: { photo: Photo; onOpen: (p: Photo) => void }) {
+function FramedPhoto({
+  photo,
+  onOpen,
+}: {
+  photo: Photo;
+  onOpen: (p: Photo) => void;
+}) {
   const ratio = photo.width / photo.height;
   const landscape = ratio >= 1;
   // Size the print from its known dimensions so the hall's layout never
@@ -261,7 +325,11 @@ function FramedPhoto({ photo, onOpen }: { photo: Photo; onOpen: (p: Photo) => vo
           >
             <Pic
               photo={photo}
-              sizes={landscape ? "(max-width: 768px) 72vw, 50vw" : "(max-width: 768px) 56vw, 32vw"}
+              sizes={
+                landscape
+                  ? "(max-width: 768px) 72vw, 50vw"
+                  : "(max-width: 768px) 56vw, 32vw"
+              }
             />
           </div>
         </div>

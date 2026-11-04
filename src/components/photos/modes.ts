@@ -98,3 +98,27 @@ export function setWindowParam(windowed: boolean) {
     window.history.replaceState(window.history.state, "", url);
   } catch {}
 }
+
+export type Sort = "newest" | "oldest";
+const SORT_KEY = "sort";
+const DEFAULT_SORT: Sort = "newest";
+
+/** Sort order for the Museum and Contact Sheet (?sort=oldest). Newest first by default. */
+export function readSortParam(): Sort {
+  if (typeof window === "undefined") return DEFAULT_SORT;
+  try {
+    return new URLSearchParams(window.location.search).get(SORT_KEY) === "oldest" ? "oldest" : DEFAULT_SORT;
+  } catch {
+    return DEFAULT_SORT;
+  }
+}
+
+/** Write (or clear) ?sort=... without adding history entries. */
+export function setSortParam(sort: Sort) {
+  try {
+    const url = new URL(window.location.href);
+    if (sort === DEFAULT_SORT) url.searchParams.delete(SORT_KEY);
+    else url.searchParams.set(SORT_KEY, sort);
+    window.history.replaceState(window.history.state, "", url);
+  } catch {}
+}

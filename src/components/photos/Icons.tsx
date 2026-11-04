@@ -146,3 +146,8 @@ export const House = (p: P) => (
     <path d="M10 20v-5h4v5" />
   </svg>
 );
+export const ArrowsUpDown = (p: P) => (
+  <svg {...base(p)}>
+    <path d="M7 4v16M7 4L4 7M7 4l3 3M17 20V4M17 20l3-3M17 20l-3-3" />
+  </svg>
+);
