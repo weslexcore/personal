@@ -16,7 +16,7 @@ import exifr from "exifr";
 const SRC_DIR = process.env.PHOTOS_SRC ?? "photos-original";
 const OUT_DIR = "public/photos";
 const MANIFEST = "content/photos.json";
-const LONG_EDGES = [480, 960, 1600, 2400];
+const LONG_EDGES = [240, 480, 960, 1600, 2400];
 const WEBP = { quality: 80, effort: 4 };
 const EXT = new Set([".jpg", ".jpeg", ".png", ".webp", ".avif", ".tif", ".tiff", ".heic"]);
 const FORCE = process.argv.includes("--force");

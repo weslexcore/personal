@@ -4,6 +4,11 @@
     "src": "/photos/DSCF7842-2400.webp",
     "srcset": [
       {
+        "src": "/photos/DSCF7842-240.webp",
+        "w": 160,
+        "h": 240
+      },
+      {
         "src": "/photos/DSCF7842-480.webp",
         "w": 320,
         "h": 480
@@ -28,12 +33,17 @@
     "height": 7728,
     "takenAt": "2025-05-08T18:27:21",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQC7AB6ndqpNNgz74gAA8qGGeeD3pNebpTmU052s22B4PvUI7z9r+IqrbksNcPoqYEuR6IUR6yzvSHCw5w1JfP8na7Ds4dvq0drLom+h9MonNPKufgu6AAA="
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQAAUuZ9gfQcQAegAPKhhnng96TXm6U5lNOdrNtgeD71Bo3LgRR1eVjL9NgwDz2zclSK4ErXNJRjPwSpH4FubBvSfpueQvWlcwwa1CfjbNqyjT8LZigA"
   },
   {
     "id": "DSCF7858",
     "src": "/photos/DSCF7858-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF7858-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF7858-480.webp",
         "w": 320,
@@ -59,12 +69,17 @@
     "height": 7728,
     "takenAt": "2025-05-18T13:31:11",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBdgA3a7NnoJa8ALcuU0AP6p7sek22Ss4pEkVj3RvcPRNve9V6NaDWz5i/Hc37l/YWgqnhssVCJeab0dDdJdCtsFiopm6CCNDBwnk8MvIc9UenKkNh1TgAA="
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBdgA2TRuy2Z2BRAAP6p7sek22Ss5UefQ9JVbCBIDes+FBuJqHxQYsHaJ2fiS/wsurgI/EXYXizdEZQRuMJjpl1yopm6E7WAjbQdGvHqLTT0W9HEYWIA"
   },
   {
     "id": "DSCF7888",
     "src": "/photos/DSCF7888-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF7888-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF7888-480.webp",
         "w": 320,
@@ -90,12 +105,17 @@
     "height": 7728,
     "takenAt": "2025-05-24T05:59:09",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JYwCsABwfbCTo52vJG6AA/lPxwzM1hprZNK9UibLDHP0yv7i7xrQ0zL3LED3Y9HgN5FkPrEcIVwWrERpgAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCsABwfbCTo52qgi6wA/lPxwzM1hprZNK9UibLDHP0jLcUF/QvbjCY7rUUP62lnwiOvDBCxXg+1CIgAAA=="
   },
   {
     "id": "DSCF7963",
     "src": "/photos/DSCF7963-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF7963-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF7963-480.webp",
         "w": 320,
@@ -121,12 +141,17 @@
     "height": 7728,
     "takenAt": "2025-05-24T17:05:18",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQC2yCP7jvMNm4fYCelAAPZSivRonRADaoq0AjYNRaMfdXhuYORNYMv0eeIuP8E09thy0mR3xhAWfAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwAAYd2YAgKKoTZvV+AA9lKK9GmhvNqJPTPuJWZf8OLczQnaQ18NTAl9aLnT2YUve7z1j384KwAAAAA="
   },
   {
     "id": "DSCF7966",
     "src": "/photos/DSCF7966-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF7966-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF7966-480.webp",
         "w": 320,
@@ -152,12 +177,17 @@
     "height": 7728,
     "takenAt": "2025-05-24T17:05:56",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoMABIAPu1kqk4ppaQiMAgBMB2JZQAAW7zk/bUPWBCAAP3Od+zDd9+dTcStvZVBFNgNfHTr2/KvFVBlzPR7Q9SN5aC9wwAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoMABIAPu1kqk4ppaQiMAgBMB2JZQAAW7zlf3aHQgwAAP3Od+zDd9+daF/sI3YyP9+G0Kom3b8q9B0AIeaumygSDm9DKwAA"
   },
   {
     "id": "DSCF7992",
     "src": "/photos/DSCF7992-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF7992-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF7992-480.webp",
         "w": 480,
@@ -183,12 +213,17 @@
     "height": 5152,
     "takenAt": "2025-05-24T17:26:29",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoMAAgAA4BaJZQC7AEWKf3gdYAA/q3xcdJ3r2+OIz/N8ie0MRw39Sc8kUTnTyVMAaPg7C000lJgAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoMAAgAA4BaJZQC7AEWKemy6mAA/q3xcdRfrNnX5z/N8VE2wgunYExpRH97VwXguvX2YEOZCUlAAA=="
   },
   {
     "id": "DSCF7997",
     "src": "/photos/DSCF7997-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF7997-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF7997-480.webp",
         "w": 320,
@@ -214,12 +249,17 @@
     "height": 7728,
     "takenAt": "2025-05-24T18:19:16",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwDG9CIj6ji/e0GTS7HAAPw8RX/Gqvp8H3ZmIOgHXeWDdh3fR8soQY+VQGaaUyq10nTc030gju+uU6OT8Uhl4ZyYVIAA"
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwDG9CIjN18kModhLfAA/DxFf8aq+nwfdmY7lsuSo3pIgSsCe86xeBe8nSgCNCc0lKryKNs9QBiy263qCWxUGhBs7BaAAAA="
   },
   {
     "id": "DSCF8023",
     "src": "/photos/DSCF8023-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8023-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF8023-480.webp",
         "w": 480,
@@ -245,12 +285,17 @@
     "height": 5152,
     "takenAt": "2025-05-24T19:00:24",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoMAAgAA4BaJZQCdAEQ/WrG/tVAAP6jHJ6hyrrdZqqr6DhRe9UwaB8gKHqetKKk6P62AAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoMAAgAA4BaJZQCdAEVKkJVXzAA/qMcnqHCw0s/v53kI0TP/te2FGfocn/kC4t4AAA="
   },
   {
     "id": "DSCF8026",
     "src": "/photos/DSCF8026-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8026-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8026-480.webp",
         "w": 320,
@@ -276,12 +321,17 @@
     "height": 7728,
     "takenAt": "2025-05-24T19:00:52",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwDCgBbJONNmUfgAANv4AZRmOWe1QVopH/ZACRDX4OnojdpFN0AA"
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZwDCgBbJRfxAYemogADb+AGUZjlntUFZ1zMl9/B8HifiPc6uZAAA"
   },
   {
     "id": "DSCF8040",
     "src": "/photos/DSCF8040-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8040-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF8040-480.webp",
         "w": 480,
@@ -307,12 +357,17 @@
     "height": 5152,
     "takenAt": "2025-05-24T19:06:33",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoMAAgAA4BaJZwAAtvk+i2sAAD+lbMBNCaHWbICG2MSTmgAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAQCdASoMAAgAA4BaJZwAAtaGRqeAAP6VswGbr0p4SXtTSEat2wAA"
   },
   {
     "id": "DSCF8050",
     "src": "/photos/DSCF8050-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8050-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8050-480.webp",
         "w": 320,
@@ -338,12 +393,17 @@
     "height": 7728,
     "takenAt": "2025-05-24T19:33:47",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAwCdASoMABIAPu1iqk2ppaQiMAgBMB2JZQCw7Baf/nETE85xCoAA2yCNNCNhFDMutZ/mfkFuud5ADrgDbWePsXREGGxnyPjlYwstwAA="
+    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQDCgBaf/nJImCn1IWjwAPcp9GmhC910ko0agkWZ3J9gXZl6EKrJex+frUqJBbrvYS1vV46RHGAA"
   },
   {
     "id": "DSCF8055",
     "src": "/photos/DSCF8055-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8055-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8055-480.webp",
         "w": 320,
@@ -369,12 +429,17 @@
     "height": 7728,
     "takenAt": "2025-05-25T05:33:52",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwC7AB5z6KnzQAD+40tcOalWIrjGzB/siOJA5YR4vj8N3em5Q8iqVv9oM7Tthw3OytSyvClY74AA"
+    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwC7AB6W045AIAD+40tcOaOTphCCtVXJaaRzb8HicpN2Eiqrfs1SuA4PySSFDFRtM9nztFKx3wAA"
   },
   {
     "id": "DSCF8060",
     "src": "/photos/DSCF8060-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8060-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8060-480.webp",
         "w": 320,
@@ -400,12 +465,17 @@
     "height": 7728,
     "takenAt": "2025-05-25T05:37:54",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAABQAwCdASoMABIAPu1krU6ppaSiMAgBMB2JZwAAW+/dCBzAAAD3pMozZ9Lxcebk+ZTpuHhYVYFjo11pAGTXarAA"
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACQAwCdASoMABIAPu1krU6ppaSiMAgBMB2JZwAAW+/dAgUR/CSAAPekyjNn0vFx5vbOj/Z03DEYlRG08L/AAA=="
   },
   {
     "id": "DSCF8069",
     "src": "/photos/DSCF8069-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8069-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8069-480.webp",
         "w": 320,
@@ -431,12 +501,17 @@
     "height": 7728,
     "takenAt": "2025-05-25T10:15:47",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdACHPIqAkvQQ7zBAA/C55GjaLl3k0eog/PVikqehAfy1cJnFpHA6L1hHLyYcl1rEyxB8WbD2DmaI/oXvbq2vCfXUJ3biCEVBGmEAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdACHcVy88lhnS9QkQQAD8LnkKl4pZCGMjrw23YlV5fKURu8ej2o9yyQJQyqdFFCRPchExGGfsnrkC8ZE3C5b+t3l8X6ccizbC8zmzAAAA"
   },
   {
     "id": "DSCF8085",
     "src": "/photos/DSCF8085-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8085-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF8085-480.webp",
         "w": 480,
@@ -462,12 +537,17 @@
     "height": 5152,
     "takenAt": "2025-05-25T10:37:31",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoMAAgAA4BaJZQCdAEOuowqAAD+vJdy/MNkq2m92a9foOSpd6Jt6AAA"
+    "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoMAAgAA4BaJZQCdAEOvE7bAAD+vJdy7pr78hoOazCOveR3cS/fUAAA"
   },
   {
     "id": "DSCF8114",
     "src": "/photos/DSCF8114-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8114-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8114-480.webp",
         "w": 320,
@@ -493,12 +573,17 @@
     "height": 7728,
     "takenAt": "2025-05-25T10:52:59",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoMABIAPu1kqU2ppaOiMAgBMB2JZQC7ABs3cpWK9+3kGAAA/iMPnyzjs+JZ4lmDI/g8rW1azidmthbwB/V2FQU/up4uyit2JZh53D9Vk+sLb6SAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQC7ABs3cpWHXgJzhgAA/iMPnyzjs+JZ4lmDI/g8rW1aziX7yiqwP9VGbknxUSTz5J95A3+JBaSzD00KSYAA"
   },
   {
     "id": "DSCF8198",
     "src": "/photos/DSCF8198-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8198-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8198-480.webp",
         "w": 320,
@@ -524,12 +609,17 @@
     "height": 7728,
     "takenAt": "2025-05-25T15:21:58",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JQBYdg2BZrL3aIcQAAM4BkWkfdO1w+Ad/T23q8N2KX+eunqa6MMEKNKkp0K5YQj2ysc9QOT+HpFkHK3GoG7Iu7VIPJhe9VFc764NcAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBdgA2bkxsaeBUrQAM4BkWksGArWfrB8ev6RJtoxqATWQaIfSlXigi4zdFVUuOHfbT8/Q2ZiTcmwr5LUWnRseI+T8n7EJRECO3NgAAA="
   },
   {
     "id": "DSCF8201",
     "src": "/photos/DSCF8201-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8201-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8201-480.webp",
         "w": 320,
@@ -555,12 +645,17 @@
     "height": 7728,
     "takenAt": "2025-05-25T15:47:11",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCsABSipYxKIvrsfwAA+jbj4GO1My5MXMIUZ6Frk9sfrKcO78UyskvM9DIJ0k0bfMCZtAJpzhdgpmtzS6/hzeybTTnPq6aUFsLYAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCsABSioJc/zMzzGgAA+jkZFbX+Yl9skBKw1aYmvMThF0sjX+S0jlmXJBmhwRzPMvf++ZrIkQjB/woQa5adJoG8ScyXYeBpTvAA"
   },
   {
     "id": "DSCF8204",
     "src": "/photos/DSCF8204-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8204-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF8204-480.webp",
         "w": 480,
@@ -586,12 +681,17 @@
     "height": 5152,
     "takenAt": "2025-05-25T15:48:53",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoMAAgAA4BaJYwC7AD8YdCscAD8XeSpxLm8kRstTUrOJlwIq2SjSwSH5Bjyk1UuAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoMAAgAA4BaJYwC7AD8KRcTeAD8XeSpxLmlv4yWZmWSCeCmV/iaXaRHo+LpfdwA"
   },
   {
     "id": "DSCF8247",
     "src": "/photos/DSCF8247-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8247-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF8247-480.webp",
         "w": 480,
@@ -617,12 +717,17 @@
     "height": 5152,
     "takenAt": "2025-05-26T08:56:54",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoMAAgAA4BaJZQAAsaTMjJ2NQAA/u+g8YxwrMZRVn9GzDTuNvFvFopsiEAi11ovgeDJambgAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoMAAgAA4BaJZQAAsaTK2QdxAD+76DyRuH2oIY7BY1geFkJvBPFj/XnTeZ47wkYDWQRS9P3AAA="
   },
   {
     "id": "DSCF8298",
     "src": "/photos/DSCF8298-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8298-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF8298-480.webp",
         "w": 480,
@@ -648,12 +753,17 @@
     "height": 5152,
     "takenAt": "2025-05-26T10:30:25",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoMAAgAA4BaJZQCdAEfAzKNdZsAAPy0AHWJiy7gPeoi5yTCI4xhBkW/dBmp20AC30uiHyjpwAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoMAAgAA4BaJYwCdAEQ+a7epAD98Cj+oSmoEQoC/IMkd658SZe7F+0jpYXTEIsL/NP877dswAA="
   },
   {
     "id": "DSCF8317",
     "src": "/photos/DSCF8317-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8317-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8317-480.webp",
         "w": 320,
@@ -679,12 +789,17 @@
     "height": 7728,
     "takenAt": "2025-05-26T11:22:20",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBfnA4ZXUvJkVo8IrGqYAM46xeG0g7K+XF5WWRimIj0Y3T5iFXHraGNCYEdACujW1O8e3wsw1Y96W5vUtd1B0ORNRGB57t9/9FkR5VI7b6SEpUw9vkDLWY41E4CF98+lPeYxZIgAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBfnA3ZO4tY/O+hucAAAzjrF4bSDsr5cXjMphK43aYfrkxdKarM5OBBXfF/TQ24QZ8mU+H5LtlOBUhBTZpE6n/q9mJ6HVY33/0WRHlUjtvpIYsHB5tEshFo/8crxj/vyvEH1a78AAA=="
   },
   {
     "id": "DSCF8343",
     "src": "/photos/DSCF8343-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8343-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8343-480.webp",
         "w": 320,
@@ -710,12 +825,17 @@
     "height": 7728,
     "takenAt": "2025-05-26T14:30:55",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwC/OBuxqXw0SWSgAP5gKGXack1nrXbjQatd4PrPZJh8n7raDt1R/a7DujD4AAA="
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwC/OBuxqXxnRC+rwAD+YChl2nJNZ61240GrXeD6z2SYfI28zIDOJUcBUAAA"
   },
   {
     "id": "DSCF8394",
     "src": "/photos/DSCF8394-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8394-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8394-480.webp",
         "w": 320,
@@ -741,12 +861,17 @@
     "height": 7728,
     "takenAt": "2025-05-26T14:44:13",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQC2yCHoNm3LAAD+xOC818RQc9YktxlO1i8EzSYcX12mwZX5B/T5tUl0f2AG4RSDdMAA"
+    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQC2yCHoNm3LAAD+xOC818RQc9YktxlO1i8EzSYcX12mwZw5Bp2w0VJdH9gBuEUg3TAAAAA="
   },
   {
     "id": "DSCF8397",
     "src": "/photos/DSCF8397-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8397-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF8397-480.webp",
         "w": 480,
@@ -772,12 +897,17 @@
     "height": 5152,
     "takenAt": "2025-05-26T14:45:18",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoMAAgAA4BaJZQCdAEQDodFgAD9PDB6A+ddhIgImM3ow9RAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADwAQCdASoMAAgAA4BaJZQCdAERGqsA5AAA/Twtpekj2fb5awJinudO4wAAAA=="
   },
   {
     "id": "DSCF8426",
     "src": "/photos/DSCF8426-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8426-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8426-480.webp",
         "w": 320,
@@ -803,12 +933,17 @@
     "height": 7728,
     "takenAt": "2025-05-27T09:08:39",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAABwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZwC7AA6h8IyEGxgA9wQb1z/Vxa74s/sw0sMBMTOB7aQZaBliAAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAABwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZwDE2A6h73FI+gAA9wQb1z/Vxa74s/sw0slwwHaM9TpSqs2AAA=="
   },
   {
     "id": "DSCF8446",
     "src": "/photos/DSCF8446-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8446-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF8446-480.webp",
         "w": 480,
@@ -834,12 +969,17 @@
     "height": 5152,
     "takenAt": "2025-05-27T09:33:38",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAABwAQCdASoMAAgAA4BaJZwAAVwC0AD9rtFDtOjxIarrG8PWqoyZ32UeqiTfxm5Q83WAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAgAA4BaJZwAAdNboA+gAP2u0UO06PEhquqlNrz5IuS9moOYMBpXWAA="
   },
   {
     "id": "DSCF8448",
     "src": "/photos/DSCF8448-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8448-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8448-480.webp",
         "w": 320,
@@ -865,12 +1005,17 @@
     "height": 7728,
     "takenAt": "2025-05-27T09:35:25",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwAAW6TRdlZFgAAA/tqRUYYLKmlUXa4HPaYrxaf5nqetg/FlP+jgWm9UxJpzWqkAAAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwAAW6TRfhyAAP7akVGGCyppVF2uBz2mK8Wn+Z6nrYP7+ti9S33q/HH6u/Zw+8ZXNPAAAAA="
   },
   {
     "id": "DSCF8490",
     "src": "/photos/DSCF8490-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8490-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF8490-480.webp",
         "w": 480,
@@ -896,12 +1041,17 @@
     "height": 5152,
     "takenAt": "2025-05-31T12:56:35",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAgAA4BaJQBOgBuyfC/N6gAA/shPFNsp+2w+E41ueSg/Yr3N0ezFlHvB5Uqw+jr4AOATHIYjI6wmrUMAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoMAAgAA4BaJQBOgBuyfC+coAD+yE8U2yn7bD4TjW55KD9iN/JfekoZzuTrol2PKScLebNFBGR1hNWoYAAAAA=="
   },
   {
     "id": "DSCF8580",
     "src": "/photos/DSCF8580-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8580-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8580-480.webp",
         "w": 320,
@@ -927,12 +1077,17 @@
     "height": 7728,
     "takenAt": "2025-06-01T12:18:44",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JagCdACHh6GP7oZeuNOgveleAAP7xEVHi2TMKeqph5rOABdgPUSpa+qVMlaDxIP0yr/M+go+zl/9l0qhovPi53TpL9BHw816XT0Ud93YGlVSXE1NZWEM1bgM6r1czjUrTNBNxfXD1dy92uMAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JagCdMoADTtQ4V8QYUdaHeEQJAAD+8RFR4tHdhrL8m/oaBdgPUSpavJjks7/WO1BcpIJ8bY+WojhifpByedZB/FEfjH12+MiuuICEmzZtlRtoNRWkCgjgolRpWirMUXSJRtlWOnNBN1IBXgAAAA=="
   },
   {
     "id": "DSCF8588",
     "src": "/photos/DSCF8588-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8588-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8588-480.webp",
         "w": 320,
@@ -958,12 +1113,17 @@
     "height": 7728,
     "takenAt": "2025-06-01T12:25:00",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZgCdMoR3ACGcN3CJ2Nr+W6SAAOFXUDN5iBUPYmL/koXlQ9PCGS0OwvUHOW7sM7+aucgBOhg8Wqbr67p0h87jqk84JW5TC4QHVAOf+GQWDl95kAA="
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZACdL1ABdZywryfbHHGbxYAA4VdQM3mIFQ9iYv+SheVD08IZLQ7C9Qc5P0GkmZiY4w5IdUbAGIX0j+vOLBT6i9kjDWV+vH+G9ItL3uwN1G1ia+XUAAAA"
   },
   {
     "id": "DSCF8608",
     "src": "/photos/DSCF8608-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8608-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8608-480.webp",
         "w": 320,
@@ -989,12 +1149,17 @@
     "height": 7728,
     "takenAt": "2025-06-01T14:48:01",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYgAAXu8Io2dBfD6CdAAA/uniG5eZWjvmj6l5fDu9fqvcnH2EUd48RKvyMykcdSTHwIAWw9gWmpBtYQwui5/1JSq6tf79nEq2um1ZmlO4Eh4gAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYgAAXu8G00G7dldDZIAAAP7p4huXmVo75o+peXw7vX6r3JsCTWpUQbkvA3ZgQVukfmKDR1tpIpGJ8bmr/SuB/1JSq6tf79nEr2vTapUhuNsHLQAAAA=="
   },
   {
     "id": "DSCF8656",
     "src": "/photos/DSCF8656-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8656-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8656-480.webp",
         "w": 320,
@@ -1020,12 +1185,17 @@
     "height": 7728,
     "takenAt": "2025-06-02T19:45:41",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYwC/OBwjM33hoS4uv9/YAAD9sHmVnkWk4QgmbXZJh1SvDq0UHKjQbCD5f+JIInMW3/1a0/AxGX/8AJqvaAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwAASB3t3x+KDi/n4AD9sHmVnkWk4QgmblRjebnp0O5YcdKXAU3IpomonRc815TRSyX9rQOZcjDwYvz7GqAA"
   },
   {
     "id": "DSCF8728",
     "src": "/photos/DSCF8728-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8728-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8728-480.webp",
         "w": 320,
@@ -1051,12 +1221,17 @@
     "height": 7728,
     "takenAt": "2025-06-03T18:26:19",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAASqn+qlMDL/oZAAD+8RTtxokaYqNblsrVEfQNLb8qgdFay8/7F8oOR15nXp1hvqedarYXdFsNDTha2WS0U0EhVslODtw1ABjyawgAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAASqoCWZx/SJqCAAD+8RTtxokaYqNblsrVEfQNLb8qgdFay8/tX1uRFGbczWadeyBOKrU/ycd6dPvVwiI+zU8q7qFcPnH7JuoAIAA="
   },
   {
     "id": "DSCF8756",
     "src": "/photos/DSCF8756-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8756-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8756-480.webp",
         "w": 320,
@@ -1082,12 +1257,17 @@
     "height": 7728,
     "takenAt": "2025-06-04T13:20:28",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCw7CHPnbtiDxr4AAD+2lDG58BPIcyhCU/qauF5xK4Fv1eH5uHTh3GL7HZoBpHWM0CjJMIkDlDytv5ns/mY/NxS+nJ3+eL2Exa2gAA="
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdACHQFAKtxT0G4AAA/tpQxufATwwdA13vKTVoAJaCl7rT2B0Ibr0MUAPkAVo9d+c/SVeVLroMqK+Qega5lP/iEL4VSLK16jT8AAA="
   },
   {
     "id": "DSCF8801",
     "src": "/photos/DSCF8801-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8801-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8801-480.webp",
         "w": 320,
@@ -1113,12 +1293,17 @@
     "height": 7728,
     "takenAt": "2025-06-04T18:29:40",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZQC7AfwIvoXo/HLjTmDUO4AA/vH1KNOSr3jzKerdlOtu28ttra2BLGjSibWKIoc3iqlXunagdoqGqs0lb22fF1yTIkAGvoFyl42kNjI4l9yT56OcjKD2zZAvAWIMaX0sCRAA"
+    "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZQC7AYyK3ERW8w3DTyUYfAAA/vH1KNOSr3jzLRC87uSeKRGubqGNl2VYrU9x9ZqmxxV7wMnZkPJihekybzt2IVM8HiPoKfYQDWfa2LS2Op4DKBTY3ZDFLYwNKEHQDXPkHAAA"
   },
   {
     "id": "DSCF8820",
     "src": "/photos/DSCF8820-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8820-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8820-480.webp",
         "w": 320,
@@ -1144,12 +1329,17 @@
     "height": 7728,
     "takenAt": "2025-06-04T18:35:52",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JQBOgA6f3VhFRcUhuuVNAAP0rQdhOS2AddQAYcl1NWI+C9yQiPBSrklek34AYvWRQn+bRuJkUTS8xRHV5n5u1HTWnchC2P8Ch5P8DMn848AAA"
+    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOgA6f6/lQZWXfEeZ5+AAD9IQGByqTO760KDGDPPbKJUMYQDlUC4I6pa6Avt+rVuuIuf9ggMdU/nqV5n6KFwch85LezxTXDYaHqYFTwAA=="
   },
   {
     "id": "DSCF8840",
     "src": "/photos/DSCF8840-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8840-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF8840-480.webp",
         "w": 480,
@@ -1175,12 +1365,17 @@
     "height": 5152,
     "takenAt": "2025-06-04T18:51:30",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMAAgAA4BaJZQC7ADco+eETYAA/myZusi+dh7cpVmdlV8nCHr4CBHTrsVf150Y7PicVRRBnGhlRaih6t35Ixml94xxwAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMAAgAA4BaJZQC7ADcpCi2WsAA/myZusvGxzFAkHMUwbdZQLXUOMSozzkbCtQNjMoLl1QOTsLhJkZ5Df+P5KU8AirUgAAA"
   },
   {
     "id": "DSCF8870",
     "src": "/photos/DSCF8870-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8870-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF8870-480.webp",
         "w": 320,
@@ -1206,12 +1401,17 @@
     "height": 7728,
     "takenAt": "2025-06-05T12:39:51",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JQBdgApPw+NnuDNoI3QAA/NP6Z8FD35pCZ4ZUEkKo1avDhC5QtoUXNM//dNJdLkNwTTY7HLBbiZTNUaKVuAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwC7ABdQnGnER1Zz9ewAAPzT+mfBQ9+aQmeGQcD6O83nFwAcP+9/2kz6MrTe5aKRUpty9VG3fBkQ1WOIeSlSAAA="
   },
   {
     "id": "DSCF8978",
     "src": "/photos/DSCF8978-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF8978-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF8978-480.webp",
         "w": 480,
@@ -1237,12 +1437,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T13:50:23",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoMAAgAA4BaJQBOgB7G3deMAAD8jJVVIpzt5UGT1mN4ICQyx6LF7DOh4Y2AAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAgAA4BaJQBOgB6tzrCQAP3ilnc/YEi8AfD1WQc4RkSamTbjiuT2gAA="
   },
   {
     "id": "DSCF9010",
     "src": "/photos/DSCF9010-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9010-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9010-480.webp",
         "w": 480,
@@ -1268,12 +1473,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T14:55:41",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoMAAgAA4BaJaQAAluy9I+GAAD+v+BNJ4vGvoJ73dOFZ79yEOzpmNiqMKfjApWt0G4eEm+qwAAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoMAAgAA4BaJaQAAlRiyWDgAP6/4E0ni8a+g5HciAmOMLQD54VzBRzSvqF0XBqZtyKQ5YPz0DoAAA=="
   },
   {
     "id": "DSCF9027",
     "src": "/photos/DSCF9027-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9027-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9027-480.webp",
         "w": 320,
@@ -1299,12 +1509,17 @@
     "height": 7728,
     "takenAt": "2025-06-06T15:14:13",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAwCdASoMABIAPu1kqU2ppaQiMAgBMB2JQBOgAt3NpO452yACUAD8VNeXA8mrBRstG5tupj5a43BFjg8EJ8zrg5yzUQx9aYqQxAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoMABIAPu1iqk2ppaQiMAgBMB2JQBOgAj838DqsDWZAAP3NlbLzKp8XWxGid8prmgXaOXNp5GnFhm37BQ+mkwSapP6D2gAA"
   },
   {
     "id": "DSCF9033",
     "src": "/photos/DSCF9033-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9033-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9033-480.webp",
         "w": 480,
@@ -1330,12 +1545,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T15:18:45",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoMAAgAA4BaJYwCdADbH+YAAP3AwNg/ap06PwWJ/1TnnC0HRGqirrjG++4NPg6ZgAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoMAAgAA4BaJYwCdADbMBRPwAD9wMDY1VE3+ToY8x1G/+lungp6XaUjGF/TOyPkAAA="
   },
   {
     "id": "DSCF9056",
     "src": "/photos/DSCF9056-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9056-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9056-480.webp",
         "w": 320,
@@ -1361,12 +1581,17 @@
     "height": 7728,
     "takenAt": "2025-06-06T15:25:42",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZQCdAB6Nrg2QvU6+MhAA/ozuT06B7L80oYBYumu1luCjbn86Pb7c02i/+lTV3wK8Cw5bwR/fDj958hM2LAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAwCdASoMABIAPu1iqk2ppaQiMAgBMB2JZQC06B6QPP8HNXvDIwAA/ozuT03qLQr8esL0GBwpEUaIufzlaL7ReE3Aq7hWlXmJh0veixJEXyWxpaFS1MFnawAAAA=="
   },
   {
     "id": "DSCF9059",
     "src": "/photos/DSCF9059-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9059-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9059-480.webp",
         "w": 480,
@@ -1392,12 +1617,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T15:29:40",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoMAAgAA4BaJZgCdAClmfAA+eO8yaXlFiFAzjTXy0DbJpRIGW2qTjFh4ZQAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACQAQCdASoMAAgAA4BaJaACdADWCgAA+eO8yaXlF2O2Xyd6Cf1WYGE9NsoE5XvelrgaAAAA"
   },
   {
     "id": "DSCF9069",
     "src": "/photos/DSCF9069-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9069-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9069-480.webp",
         "w": 480,
@@ -1423,12 +1653,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T15:38:50",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoMAAgAA4BaJbACdAD7A98zJ1EAAPyz/exmtqDPQpC7VOU1corNoj3Cj3IgoszfWxV9SocuttdrmgAA"
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoMAAgAA4BaJbACdADIYfYAAPyz/exmtqDPQpEHYwZCZynZ52DIRvHHzmWFm03uI+3k6Ya3pySwAA=="
   },
   {
     "id": "DSCF9072",
     "src": "/photos/DSCF9072-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9072-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9072-480.webp",
         "w": 480,
@@ -1454,12 +1689,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T15:39:49",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoMAAgAA4BaJQBOgBbrrjcAAP7d+o2Lb3VC5UVKRgBsfaTBXEq20IsiGJ8AAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoMAAgAA4BaJQBOgBcSUNeEAAD+3f+t++Q2ZNuKlmG0cbvQ0bPRecYWpXdYAAAA"
   },
   {
     "id": "DSCF9075",
     "src": "/photos/DSCF9075-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9075-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9075-480.webp",
         "w": 320,
@@ -1485,12 +1725,17 @@
     "height": 7728,
     "takenAt": "2025-06-06T15:40:38",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoMABIAPu1kqU2ppaOiMAgBMB2JZQC7ACHZ71w7wTTUHdAA/tNMdr8i+7KacpaxqVV+pkSYM5LRwBPr+Wpu0Shxco3P51zbp6AAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoMABIAPu1kqU2ppaOiMAgBMB2JZQC7MoADThh8X9sO9C0igAD+00x2vyL7spTNOMDYar7HlDBm99FJumhwJXdosoyJVI/XS6YoAA=="
   },
   {
     "id": "DSCF9145",
     "src": "/photos/DSCF9145-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9145-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9145-480.webp",
         "w": 480,
@@ -1516,12 +1761,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T16:12:08",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoMAAgAA4BaJZgCdADz2eYtAAD321MNAmEQaW7nkqY/1QghO+gvWFh44uzblSXcRZD8wcoDP13ZrJGnqiAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoMAAgAA4BaJZgCdADygVeoAPfbUw0CYRBpbueSpfw2kXAorRJJTa1KfTY0m2NJHuJ8jFDxeRzwiKUogAA="
   },
   {
     "id": "DSCF9162",
     "src": "/photos/DSCF9162-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9162-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9162-480.webp",
         "w": 320,
@@ -1547,12 +1797,17 @@
     "height": 7728,
     "takenAt": "2025-06-06T16:22:16",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAwCdASoMABIAPu1kqU4ppaOiMAgBMB2JZwDE2CBvfvApdVJdxkAA96dreLq2dvFpOVLSysdAnJQOhCAOmpleGPTrR3R0+AA="
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZwDE2CBvfvAqMEsIY+NAAPena3i6tnbxaTlS0aVR8VWhjJao/ex+bWRn+UFMqPNbAAAA"
   },
   {
     "id": "DSCF9189",
     "src": "/photos/DSCF9189-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9189-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9189-480.webp",
         "w": 320,
@@ -1578,12 +1833,17 @@
     "height": 7728,
     "takenAt": "2025-06-06T16:29:55",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoMABIAPu1iqk2ppaQiMAgBMB2JaQAATBGPU5c2zo4FU4AA/d72czVWiFJcgpqpH6lHLVyZH9EQGeO114EJD7AJALZTVmOLnmnWpn+pWg7I8AAAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAAQdzgT0H0xts34wQA/d72czVWiFJcgqFlrKhRJJE0aKNf7n95O6wRz6rc3DY5jFSpm/+FSYxqhsAAAA=="
   },
   {
     "id": "DSCF9213",
     "src": "/photos/DSCF9213-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9213-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9213-480.webp",
         "w": 320,
@@ -1609,12 +1869,17 @@
     "height": 7728,
     "takenAt": "2025-06-06T16:38:40",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwC7ABijKnAg4+xUd4AA/lt+VKlCfk9S1yNW6APYvqTYPIe4FZvcSka2L+3t0OneArO1n8Zcog2mmt/+M30t3gqVf/AA"
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwC7ABijA86pPXu5z8AA/lt+VKlCfpuPKlX4HidaY8cPBCxKgNI0jfWU1IVI5rIj7huo6Kpnms6p1Iq+6va6LwjERz4A"
   },
   {
     "id": "DSCF9287",
     "src": "/photos/DSCF9287-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9287-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9287-480.webp",
         "w": 480,
@@ -1640,12 +1905,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T18:28:06",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoMAAgAA4BaJYwCdADdegcsAAD1z1cDlTq7ZZVaJHuVcoYwtVdjVtTOyAA="
+    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoMAAgAA4BaJYwCdADN7iEAAPXPVumkOeSeR1xswP57HvVchJZIlQDIuDSAAA=="
   },
   {
     "id": "DSCF9320",
     "src": "/photos/DSCF9320-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9320-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9320-480.webp",
         "w": 480,
@@ -1671,12 +1941,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T19:09:42",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoMAAgAA4BaJQBOgCK5zOsMYAD5JzztN8pM2uC/uJMIq3vlO/sahU3u1toAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoMAAgAA4BaJQBOgCB96v2jAAD5KMfd9HPYO7SvDzQO8GVLcltR9le3vOFNkAAA"
   },
   {
     "id": "DSCF9327",
     "src": "/photos/DSCF9327-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9327-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9327-480.webp",
         "w": 480,
@@ -1702,12 +1977,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T19:12:26",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAgAA4BaJZQCdAEVwgV6kqAAAOAzwbzfpp7A3wB0MuSGYm2Zf0VwPKjA2pxAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAgAA4BaJZQCdAEVwgV6t5oAAOAzwbzfpp7A3wB0MuSGYm2Zf0VwOZbJ0qNAAAA="
   },
   {
     "id": "DSCF9337",
     "src": "/photos/DSCF9337-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9337-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9337-480.webp",
         "w": 320,
@@ -1733,12 +2013,17 @@
     "height": 7728,
     "takenAt": "2025-06-06T19:17:10",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCsAB5Q73c5CD/QIAD+afaRyywslByBZ5F7W1nDvSGZ3+EuoYB8eo5NL/IxUzXZuOxgM485qgMgAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JYwCdAB5NbUsiVqiAAP5p9pHLLCyUHIFnkYGkqLXZ3zsLtvzDVM0rH77cWLsFEUg9X0WXrt14wjoDFUAAAA=="
   },
   {
     "id": "DSCF9371",
     "src": "/photos/DSCF9371-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9371-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9371-480.webp",
         "w": 320,
@@ -1764,12 +2049,17 @@
     "height": 7728,
     "takenAt": "2025-06-06T19:25:22",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwDE2BwsZh240hvNtvY8AP6M75DKFm+DzFJlQsBwfpy+UQz7Mw1n66jk0CYhq/SsvZ2hsqcYsANNJBVkx5UBMnSieqVhB1aw9gAA"
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZwDE2BwsMdzGcz3BUX8eAAD+jO+QyhZvg8xSZULAcH6cvGemqXYLyljZAWJIWKp6535KGQ6F8UGai3gAPk2YQw19+XAAAAA="
   },
   {
     "id": "DSCF9389",
     "src": "/photos/DSCF9389-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9389-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9389-480.webp",
         "w": 480,
@@ -1795,12 +2085,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T19:30:25",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACQAQCdASoMAAgAA4BaJQAAS6NvZVIA+Qi9xfiKVgVFkV7FBMejgoRmPZfUUiGZxoktvTpeFMZPuTpwAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoMAAgAA4BaJQAAS5E+Bk8AAPkIvcX4ilYFRZthOo5QtmdxkjsA9iLOKanWeb4uOB/5SEX+y+5OnAAA"
   },
   {
     "id": "DSCF9429",
     "src": "/photos/DSCF9429-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9429-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9429-480.webp",
         "w": 480,
@@ -1826,12 +2121,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T22:55:38",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACQAQCdASoMAAgAA4BaJaQAAvc0ekAA/veA0FpEbsmyrmHj0OLIAAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAQCdASoMAAgAA4BaJaQAAvqodxAAAP73gNBaRG8VL+mNVg6gAAAA"
   },
   {
     "id": "DSCF9448",
     "src": "/photos/DSCF9448-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9448-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9448-480.webp",
         "w": 480,
@@ -1864,6 +2164,11 @@
     "src": "/photos/DSCF9452-2400.webp",
     "srcset": [
       {
+        "src": "/photos/DSCF9452-240.webp",
+        "w": 160,
+        "h": 240
+      },
+      {
         "src": "/photos/DSCF9452-480.webp",
         "w": 320,
         "h": 480
@@ -1888,12 +2193,17 @@
     "height": 7728,
     "takenAt": "2025-06-06T23:01:14",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZwAAW+X9d6iQAP7ysUs4TlxCs/SG+4172lZ9r0MtfiS170MAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAABQAwCdASoMABIAPu1iqU2ppaOjMAgBMB2JZwAAW/EE1BW2AAD+8NNiu0uYYJg+8P1wmfIN7mj5HmnR+slEwAAA"
   },
   {
     "id": "DSCF9461",
     "src": "/photos/DSCF9461-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9461-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9461-480.webp",
         "w": 480,
@@ -1919,12 +2229,17 @@
     "height": 5152,
     "takenAt": "2025-06-06T23:59:58",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABQAQCdASoMAAgAA4BaJaQABAAAAP7zAuzVmxiRKRvkCUzA4QRsAAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAABQAQCdASoMAAgAA4BaJaQABAAAAP7zAuzVmxiRKMTkosRd1koAAA=="
   },
   {
     "id": "DSCF9472",
     "src": "/photos/DSCF9472-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9472-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9472-480.webp",
         "w": 320,
@@ -1950,12 +2265,17 @@
     "height": 7728,
     "takenAt": "2025-06-07T16:22:45",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQBACdASoMABIAPu1iqk2ppaQiMAgBMB2JZQCdACHeuIDqOThcFH8M76cAAP7wx5zsjGwMb59purvOJCPnFg7+YemGzs1x4oQL7PVC1QhLPEmGDGtEnsTaa9oAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQBACdASoMABIAPu1iqU2ppaQiMAgBMB2JZQCdMoADTpNC8JwMbU3KJMQAAP7wx5zsjGwMb59purvOJCPnFg7+YemGyfH22HeeEAno/Rjb1cg2G+8E0Eb+m4AAAA=="
   },
   {
     "id": "DSCF9514",
     "src": "/photos/DSCF9514-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9514-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9514-480.webp",
         "w": 480,
@@ -1981,12 +2301,17 @@
     "height": 5152,
     "takenAt": "2025-06-11T08:24:40",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoMAAgAA4BaJYgAAn/576FAAAD+fj30VyXcaR8DtGnIHVPRhRLtjrKCS+5QtLUzgAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoMAAgAA4BaJYgAAl3NYu1MAAD+fi6g9+7wXod5nj70naWO04IqXbRhSQX0H62zSmAAAA=="
   },
   {
     "id": "DSCF9516",
     "src": "/photos/DSCF9516-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9516-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9516-480.webp",
         "w": 480,
@@ -2012,12 +2337,17 @@
     "height": 5152,
     "takenAt": "2025-06-11T08:25:05",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoMAAgAA4BaJQAB8JIvDFgiA4AA/tFqW8dAnUM/jqz+7yxoJnvhhlhMiKTbpY9LDi4SrOcoTYYNgqA/gSRHTQAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoMAAgAA4BaJQAB8P4vCdNGmgAA/tFqW8eCX2l1hebfOCN256hoFiFP13N2jNjb6ueSSZwP0TzfnKF/AkiM+AAA"
   },
   {
     "id": "DSCF9518",
     "src": "/photos/DSCF9518-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9518-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9518-480.webp",
         "w": 320,
@@ -2043,12 +2373,17 @@
     "height": 7728,
     "takenAt": "2025-06-11T08:27:59",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwAASfV8mPNROd8AAP6r5d+vPuNqva+qYj7O2wLmeopH9nCk+/S5RyKI2pbIKiITGh//XUXnDNFi96uxHbSJL1T5+nX7oVHIAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdABtGzFiUTmOAAP6r5d+vPuNqva+qYj7O2wLmeopH96BI7aORUw8WwWNQfk7ahA9gUjdtB5EHgYWMqJnR7W+01u5FX4AAAA=="
   },
   {
     "id": "DSCF9577",
     "src": "/photos/DSCF9577-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9577-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9577-480.webp",
         "w": 320,
@@ -2074,12 +2409,17 @@
     "height": 7728,
     "takenAt": "2025-06-16T18:07:00",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdAYuQsQitJXXLbbc0CAD7c7u9IWWkYUPqdL2dmIwDgM/i8ITPwv+05SlcFU/ibJSyE6jtPukQjcDhvFW+8pAzBUZ2bXHJAFzzCuS03kb3VgIHMFpWLnwAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZQCdAYtUsQitJXVV7ePZAAD7c6vH+TUXu6yClFjLHRWcLBdQipXYbl1BOyYKNC5ASfaiIUQa/Fvg8mprbR0Kq5/6oNs/jB8QFiDXDP177luGX4UhxescYsqL4AAA"
   },
   {
     "id": "DSCF9579",
     "src": "/photos/DSCF9579-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9579-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9579-480.webp",
         "w": 480,
@@ -2105,12 +2445,17 @@
     "height": 5152,
     "takenAt": "2025-06-16T18:07:34",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoMAAgAA4BaJZQCdADbfAvPwAD+9Jh/N6Q6Kt42JtuX53E2PgYs7ETGX9IM7ceOAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoMAAgAA4BaJZQCdADWwroAAP70mH83pDoq3jJUHvzqUb/o0u0+IGfhgYmHl4rQgAA="
   },
   {
     "id": "DSCF9605",
     "src": "/photos/DSCF9605-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9605-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9605-480.webp",
         "w": 320,
@@ -2136,12 +2481,17 @@
     "height": 7728,
     "takenAt": "2025-06-16T18:24:37",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwAAVOIV2r5cAAD+23p9PCUQa07X34ttm4G5nCuJfsQNkGRm7DXt1QxjUBVXCIi9zCMwbPJgCMYW1RpUHnRrxAAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwAAVOIV2r5cAAD+23p9PCUQa07X34ttm4G5nCuJfsQNkGRm7DXt1QxjUBV+4vR33ZF2MHXMa+kxgUvJwAAA"
   },
   {
     "id": "DSCF9609",
     "src": "/photos/DSCF9609-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9609-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9609-480.webp",
         "w": 320,
@@ -2167,12 +2517,17 @@
     "height": 7728,
     "takenAt": "2025-06-16T18:26:49",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQCdABki+ZWN7b+WoAAA/tx/jChvnYad9PvACL8fpjoHe/KL0iBDHtRAbXSSsUV8fVKi+pNX73PAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZQCdABki+ZWN7b+WoAAA/tx/jChvnYad9XmKruxiWw0QbJPn78Ss4bB9wpUM7WplfFdtR3TpQAwiAAA="
   },
   {
     "id": "DSCF9612",
     "src": "/photos/DSCF9612-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9612-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9612-480.webp",
         "w": 320,
@@ -2198,12 +2553,17 @@
     "height": 7728,
     "takenAt": "2025-06-16T18:29:39",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwDCgBufFp66NJ16BfEAAP7sRBJRBllSS+o4BW3u9c2hCINZN+L7xlweEWXXt56gAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwCAAAZFmmp7jQpMP8oAAP7sRBJRVFCAUZf0QHCDK7yCK3kfILNl9q/M7HT1w6XVg3pAAAA="
   },
   {
     "id": "DSCF9685",
     "src": "/photos/DSCF9685-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9685-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF9685-480.webp",
         "w": 320,
@@ -2229,12 +2589,17 @@
     "height": 7728,
     "takenAt": "2025-06-21T19:35:41",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaACdAB6UELghTMuMTlCMAOJPhHyvsnB++i3bf2oCLeoy4FFQokbZyhXXyQRub8MHbqFqTNdekYG+TKnrqRe9yaHCloWnVXmLfoy/yKACtLZrn+gfTZKlLU1ETmeVnHQHQjOsu3h+P2Ij8uOgAAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaACdAB6UELf+vGtkRrAA4k+EfK+ycH76Ldt/bo6lofqMuBRUKJG2coVK4ZTNBVfPRC5kaE8nFwxYtGsD+3yepPcmhwpaFp0gQzic4FKLUbAIO51PUy69udh9XVzdVmhtPiPL0kuSV1kukc+I7Tn4MAA="
   },
   {
     "id": "DSCF9721",
     "src": "/photos/DSCF9721-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9721-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9721-480.webp",
         "w": 480,
@@ -2260,12 +2625,17 @@
     "height": 5152,
     "takenAt": "2025-06-22T10:57:25",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoMAAgAA4BaJQAAYvOdLruAAP70v4Tc4/ckhxOMyPXqD+4b8t6yTyRq7acoW8yknmPOgf3ypP5AAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoMAAgAA4BaJQAAYvOoFH9DQAD+9L+E3OP3JIcTjMj16g/uG/LlV82ZKllXv4PBWj1//j4o9cmgAA=="
   },
   {
     "id": "DSCF9725",
     "src": "/photos/DSCF9725-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9725-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9725-480.webp",
         "w": 480,
@@ -2298,6 +2668,11 @@
     "src": "/photos/DSCF9729-2400.webp",
     "srcset": [
       {
+        "src": "/photos/DSCF9729-240.webp",
+        "w": 160,
+        "h": 240
+      },
+      {
         "src": "/photos/DSCF9729-480.webp",
         "w": 320,
         "h": 480
@@ -2322,12 +2697,17 @@
     "height": 7728,
     "takenAt": "2025-06-22T10:59:39",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZgCdEf/gObIKhg5pZJqwAAD5YZq4lFglosON+moMKMNCYSU5M0WX5UJ7UDVVKgwxLUlKcBkn/O56Du6oUS4PIltEKT0QtHxcJqgZfSe9qb5vf3/xpLLKV0Vo7fVZ0KX1mOTQcJNd3iaZyCYuQAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JaACdL13xbtv8Bg4/DuAJ9TIAAPlhmriUWB67Fu8Vnnmgz6ooO+2MRlfvOfZDfSQ70oAXtqAPoRd87noXeFUov9ZKgQF50J1jX6blyNRj7p8Qk4XjohuJPhLWCw2QfjUX65cAHJMW1TStNqCvAAAA"
   },
   {
     "id": "DSCF9734",
     "src": "/photos/DSCF9734-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9734-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9734-480.webp",
         "w": 480,
@@ -2353,12 +2733,17 @@
     "height": 5152,
     "takenAt": "2025-06-22T11:01:25",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoMAAgAA4BaJZgCdAYtByixSupGEAD+g8eo36QTtJkQ6FqW9Hbw6BgiVyJvyJRd8IhbrdGIwUOPzAn5tvbjUJdF4pLpwyIRztoF1TgAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoMAAgAA4BaJZgCdAYrdgbzikoUAP5AdRH/Mzd2c38zwFHQqFjNx9Reva6G5+JvOQxGXu4Fv3E/q9V8Z90PTaZbDCcjjSsazJFkgAAA"
   },
   {
     "id": "DSCF9736",
     "src": "/photos/DSCF9736-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF9736-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF9736-480.webp",
         "w": 480,
@@ -2384,12 +2769,17 @@
     "height": 5152,
     "takenAt": "2025-06-22T11:01:35",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAgAA4BaJaACdAD5PyfPJu+gAP7sW7Rst/RMXD+LowNysXI35wM45ERCfP4R5DVSm2eYZDukSCjmhAL8a/hEbAA="
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAgAA4BaJaACdAD6mlhGz3QA/uxbtGy4ZZNpp9aiNKN0dthf9ZAHL/R9TXrxMQwpOu4c0IBfjX8IjYAAAA=="
   },
   {
     "id": "DSCF0020",
     "src": "/photos/DSCF0020-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0020-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0020-480.webp",
         "w": 320,
@@ -2415,12 +2805,17 @@
     "height": 7728,
     "takenAt": "2025-07-03T12:50:20",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwAASkd0VO05uj4NrAAA/t3S+Bz2e3ldtbARa4UEXuRHUPdAO5QffKQp1vK92X1Nntz4Lq5W32Xdct/t46NoiUs5z9/f4qu5LX8oDaoAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwAASkd0VO05uj4POAAA/t3S+Bz2e3ldtaZx0mnffbEhad1vpsPZsp6k8oEOnCutUjO1XK2+y7rlv9vHRtESlnO0G11mr21VW2VCLAAAAA=="
   },
   {
     "id": "DSCF0072",
     "src": "/photos/DSCF0072-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0072-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0072-480.webp",
         "w": 320,
@@ -2446,12 +2841,17 @@
     "height": 7728,
     "takenAt": "2025-07-05T08:55:03",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQC7AYwws1aTsIBXwOAA/knIylFqbZpb/CMUW73O1wnGCytqkmtXxSQF3+GQGcBWm8v0Sa+waM4sdlk+nfrfM+99RxBJ++PkeSnF7uSOrJrKXlfEwHUieU7+WoLgDHAw0FQAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQC06BsutHSdRRI3AAD+SckH/B4YRTcrvoEuAMpdc86cY+bmZx3nvssfjFgnVcoCx3zkYjMPbqFjXaoOrmxZN6m2uBuCgvw+PkhKJ37UlMkzJ5YTXipW6ba0ia+N+R3wMIAA"
   },
   {
     "id": "DSCF0146",
     "src": "/photos/DSCF0146-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0146-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF0146-480.webp",
         "w": 480,
@@ -2477,12 +2877,17 @@
     "height": 5152,
     "takenAt": "2025-07-05T14:17:11",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoMAAgAA4BaJQBOgB9FVEXC2uAA/rtBHDHVNGcdqyhwTTyYR7Bjryz4Y4KRGNYhalgwAc/xXwAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoMAAgAA4BaJQBOgB89szPHAAD+u0EcMdU0Zx2rIMwuc3FifU6Q+um1bgRQyWvhSqPfF2gHP8V8AAAA"
   },
   {
     "id": "DSCF0294",
     "src": "/photos/DSCF0294-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0294-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF0294-480.webp",
         "w": 480,
@@ -2508,12 +2913,17 @@
     "height": 5152,
     "takenAt": "2025-07-13T21:31:27",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoMAAgAA4BaJYwCw7Dcg0yKgAAA/vG5qhWsR5AnRJhTI8DU7dH2BvCKUytmG5oAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoMAAgAA4BaJYwCw7Dcg1IRmAD+8bmqFaxHkCdEmFMjwNTt0fYG8IpTK2YbmgAA"
   },
   {
     "id": "DSCF0331",
     "src": "/photos/DSCF0331-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0331-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF0331-480.webp",
         "w": 480,
@@ -2539,12 +2949,17 @@
     "height": 5152,
     "takenAt": "2025-07-20T12:39:15",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoMAAgAA4BaJQBOgCIB6ip+AAD9nU1jqgN10p0bSTRKVkyQXqrBBnex0GseaDWWTlwRM0X4XRgAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoMAAgAA4BaJQBOgCIB6mZYAP2dTWOqA3XSnRtJNEpWTJBeqsLMiKqhR9VJantz3jPO6h9ws4AAAA=="
   },
   {
     "id": "DSCF0344",
     "src": "/photos/DSCF0344-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0344-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF0344-480.webp",
         "w": 480,
@@ -2570,12 +2985,17 @@
     "height": 5152,
     "takenAt": "2025-07-20T12:53:22",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoMAAgAA4BaJQBOgCHhJGYW6AAA/ofKEy+4oh/ISw8AhOpZE5L6IQSon5f4t3652S74KAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoMAAgAA4BaJQBOgCHhJGYvKgAA/ofKEy+4oh/ISw8AhOpZE6FcCm5MYT9sKak06RlOwgAA"
   },
   {
     "id": "DSCF0353",
     "src": "/photos/DSCF0353-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0353-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF0353-480.webp",
         "w": 480,
@@ -2601,12 +3021,17 @@
     "height": 5152,
     "takenAt": "2025-07-20T12:59:22",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoMAAgAA4BaJQBOgCFqsZl6aMAA/uxaM+8Rpp7E5uKAZDQLunNEab2iNqcQdu/IAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoMAAgAA4BaJQBOgCFqsZbNoAD+7Foz7xGmnsTm4oBkNBvWpEBQIGS2BfHXSu8gAAA="
   },
   {
     "id": "DSCF0367",
     "src": "/photos/DSCF0367-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0367-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF0367-480.webp",
         "w": 480,
@@ -2639,6 +3064,11 @@
     "src": "/photos/DSCF0373-2400.webp",
     "srcset": [
       {
+        "src": "/photos/DSCF0373-240.webp",
+        "w": 240,
+        "h": 160
+      },
+      {
         "src": "/photos/DSCF0373-480.webp",
         "w": 480,
         "h": 320
@@ -2663,12 +3093,17 @@
     "height": 5152,
     "takenAt": "2025-07-20T14:10:21",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRiwAAABXRUJQVlA4ICAAAABQAQCdASoMAAgAA4BaJZwABDOAAP7YP4SXp5YPdYAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAACwAQCdASoMAAgAA4BaJZwAAu06MdjYAPBNbSrLwAA="
   },
   {
     "id": "DSCF0415",
     "src": "/photos/DSCF0415-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0415-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0415-480.webp",
         "w": 320,
@@ -2694,12 +3129,17 @@
     "height": 7728,
     "takenAt": "2025-07-20T14:24:44",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwDG9BbqkWMJKSmXgADNEPoe/nINlnby15yyd73OSqr3lTNzmQ2zxMJa+VUKRfhsTSAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZwDG9BbnAztl469oAM0Qk9YRS0OFzhpPUx/IB68w96fYtHVR269kZvj2J0DsSFtmWAAA"
   },
   {
     "id": "DSCF0418",
     "src": "/photos/DSCF0418-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0418-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0418-480.webp",
         "w": 320,
@@ -2725,12 +3165,17 @@
     "height": 7728,
     "takenAt": "2025-07-20T14:25:01",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAABwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwC7AAeqgiGOIoAA+dS8kXM/cwrm0KHKQb5uVlB9oheppgRQgAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwC/OAeqQwWcT7QAAPmslWLFxvhcQOk4He6l3OixFZoxBO4EwAAA"
   },
   {
     "id": "DSCF0424",
     "src": "/photos/DSCF0424-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0424-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF0424-480.webp",
         "w": 480,
@@ -2756,12 +3201,17 @@
     "height": 5152,
     "takenAt": "2025-07-20T14:50:53",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoMAAgAA4BaJZQCdAD6CCqh7sAA/pTMOrx1aMhNbd6DvFj4IyRldMsigAA="
+    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoMAAgAA4BaJZQCdADW6qYVwAD+lMw6vHVo2T7o3Np7AC/aFoATkKEvAAA="
   },
   {
     "id": "DSCF0460",
     "src": "/photos/DSCF0460-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0460-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0460-480.webp",
         "w": 320,
@@ -2787,12 +3237,17 @@
     "height": 7728,
     "takenAt": "2025-07-20T15:01:19",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoMABIAPu1iqU2ppaOsMAgBgB2JZQCdACHcYzvASMncXeAA/uw3JXaHTvSbS0eoe+Pl93c/qcW0fWEs+FnPCatPSvFZgFYh12h+Lglo0AA="
+    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABwAwCdASoMABIAPu1iqU2ppaOsMAgBgB2JZQCdACHcYzvLUAAA/uw3JXaHTvSbS0eoe+Pl93c/qvBLRjy2z9xoWYnR1alDiqZe3bKGrPlfKiAA"
   },
   {
     "id": "DSCF0510",
     "src": "/photos/DSCF0510-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0510-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF0510-480.webp",
         "w": 480,
@@ -2818,12 +3273,17 @@
     "height": 5152,
     "takenAt": "2025-07-20T15:54:02",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoMAAgAA4BaJZwAAsZrfhtMgAD+2adG6/cOPhWN8NbmPT1VUYVgAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoMAAgAA4BaJZwAAsZrfhtMgAD+2aja33YYPSl+mSVaABjVsEhgAA=="
   },
   {
     "id": "DSCF0541",
     "src": "/photos/DSCF0541-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0541-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF0541-480.webp",
         "w": 480,
@@ -2849,12 +3309,17 @@
     "height": 5152,
     "takenAt": "2025-07-20T16:24:34",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoMAAgAA4BaJZwAAgVoGB6IoAD+oyQ4RojP/P/Mkmx28qCdPKXI4tgkMAA="
+    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoMAAgAA4BaJZwAAgVoGBPqwAD+oyQ4RojP/P/Mkmx28qCdPKXI51eEvAAAAA=="
   },
   {
     "id": "DSCF0548",
     "src": "/photos/DSCF0548-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0548-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF0548-480.webp",
         "w": 480,
@@ -2887,6 +3352,11 @@
     "src": "/photos/DSCF0550-2400.webp",
     "srcset": [
       {
+        "src": "/photos/DSCF0550-240.webp",
+        "w": 160,
+        "h": 240
+      },
+      {
         "src": "/photos/DSCF0550-480.webp",
         "w": 320,
         "h": 480
@@ -2911,12 +3381,17 @@
     "height": 7728,
     "takenAt": "2025-07-21T23:22:53",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JbAC7ACP8LXurd1lEwAD+vBmRzF10LrJw0LRVqwFvvap6Lr149dTJKNm5i2cwD00iN8/jwKvvndOdmIpu/YH5H/MLbMSUHQnt0FVBc7AEpeFA/WClnzB8xI05ZrAAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JbACsACP8ZL1cSlO89wAA/rwZIw8Bd/IiU1m+XN/TlyVDx0h6cWf6SPijJ6H8xOvsWaIp0UtsBQZkLaWzrWvyP+YW2YkoOhPboKoeUVpI66gK3ELefpx6cVnlhcAA"
   },
   {
     "id": "DSCF0553",
     "src": "/photos/DSCF0553-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0553-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0553-480.webp",
         "w": 320,
@@ -2942,12 +3417,17 @@
     "height": 7728,
     "takenAt": "2025-07-21T23:23:21",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JQBOmUABsg+oLZT3pR2YAAP7MVJ0tI234cjhF2JRjUvc4pGQ7pZZoV1HPKtymoDC58E1XHagHEhdVV/HNRCiQwAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JSvPowsQARPuBSCw8wAD+61g6/BOX4H90ipc8BW+XTc9xPsFat6clVzg8JrN38mQsFXmkjGgLzOTeJOHvwIPeE0AAAA=="
   },
   {
     "id": "DSCF0563",
     "src": "/photos/DSCF0563-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0563-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0563-480.webp",
         "w": 320,
@@ -2973,12 +3453,17 @@
     "height": 7728,
     "takenAt": "2025-07-22T00:18:58",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOgA1qdhxicLY9oAP62HIuHhP9+UN1voOU3hEflYR6ixYCx5rUBcw0O0zlsj6L5hU3zZRa5AvSFG3V41M0IZhW3eZA1tvviOtiQkq29cFilWATKheICBIAGrw/SLicQAAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOgA1qdh2Kz0dAKAAD+thyLh4T/flDdb6DlN4RH5WEzBKv8k8yholDbFCtiXInA8eD3r/ZVMKZCnbWN0xCHbHksLw/pmT6H9DtPN1A5+iAsbcTpCrySMY4OGpbTumrsAAAA"
   },
   {
     "id": "DSCF0582",
     "src": "/photos/DSCF0582-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0582-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0582-480.webp",
         "w": 320,
@@ -3004,12 +3489,17 @@
     "height": 7728,
     "takenAt": "2025-07-23T22:08:41",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQCw7CHcr71/KnAA/r5EIugPoJS/DrmuZVx15bIsNKUo8nbb9XTcG/oC+VmP6QZDktmgAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQDCgCHcr72HhHPyfnJAAP6+RCLoD6CUvw65rmZMM/QiN1iVHvF0UJxbA4oc3ASFwAAA"
   },
   {
     "id": "DSCF0593",
     "src": "/photos/DSCF0593-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0593-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0593-480.webp",
         "w": 320,
@@ -3035,12 +3525,17 @@
     "height": 7728,
     "takenAt": "2025-07-26T13:13:59",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYgAjwACGLoCUgcK49DBAUAAA+p90JGTPntiP+Rd+AMs9jOlXzmftPaUXiKIdRRt0jtyn8SrVtSCkInCB8H/cHWmBSof0nD0C3Y8XrRViD34YnpnRr1LwtoH4WKgvg9RAmAP4OdmHDKvgAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYgAASnNXBYhbQPpTgAD6n3Qi68y5ZharJIAzVCSHwsk0yQMNWZE+JnIYriNkblVAJwt1fmHchc+ECIzka7CVF//ScPQLZ2KVhkjXlE0WKALwuVPHBUSREaTEl5DBEEGK/wdAE+utQAAA"
   },
   {
     "id": "DSCF0629",
     "src": "/photos/DSCF0629-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0629-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF0629-480.webp",
         "w": 480,
@@ -3066,12 +3561,17 @@
     "height": 5152,
     "takenAt": "2025-08-03T14:12:00",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoMAAgAA4BaJbACdADdgU75QAD7F7Ep5cFjXseYGtodcAc09ua5Ab+jUYHnZw5eXePhGx7BbU1XUYZwQfjvocvxnxg9hS79i2f+fqTmWGAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoMAAgAA4BaJbACdADdgVoLwAD7F7Ep5cFjXseYGtodcAc09ua5AaZHY4kH/gy7tbyRLLsFrs9RyHH15JjQ5MjfsnUoAVa8OEBYTWOW9AAAAA=="
   },
   {
     "id": "DSCF0630",
     "src": "/photos/DSCF0630-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0630-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF0630-480.webp",
         "w": 480,
@@ -3097,12 +3597,17 @@
     "height": 5152,
     "takenAt": "2025-08-03T14:12:08",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoMAAgAA4BaJZgCdAYrdNJ1JwsAAP5AxShLey/ZJZlXJjqxCSOprGLMS9sgZ0VoypkvNDmxaxzqqlKTrrqd8zrlqR5P/OynuAAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoMAAgAA4BaJZgCdAYsta6XEmIAAP5AxW6i7bvqir2nUZraFFrE0v9Zel4UQ1scdjsqrzey3iPKFkGqppOsDR3XLUjyf+dlPcAAAA=="
   },
   {
     "id": "DSCF0647",
     "src": "/photos/DSCF0647-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0647-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0647-480.webp",
         "w": 320,
@@ -3128,12 +3633,17 @@
     "height": 7728,
     "takenAt": "2025-08-03T14:16:21",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBACdASoMABIAPu1iqU2ppaQiMAgBMB2JYwC/OCBvpun13JLFtDOOAAD+8W1NasXa36bPHlbn5nEHfNlZ+afbnUzGgpD484yDRJT4YM9b3Fb7vn2f86jb4ZwMcMnNybJDtcCCywn1iHctmmYAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JYwC/OB4XExmr9leMOvdwAP7xbU1rcA0vBG9YLCL59K6lPvmpJRO9ffwIQ0yiyDffLCk7gboMR8Y57CqrBZFiUoTZLMt6JVq0YkGYs8IeGWri9EAAAA=="
   },
   {
     "id": "DSCF0733",
     "src": "/photos/DSCF0733-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0733-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0733-480.webp",
         "w": 320,
@@ -3159,12 +3669,17 @@
     "height": 7728,
     "takenAt": "2025-08-07T10:57:03",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOgBAqNr9G80i28RdY4AP6ilEdToEc6LIAA1fFHdQiWc9B0pdRbC5BeDxRFXi4Y9shvNRuI7noY7VoyKWQA"
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOgBAqCH5Mm8n/0TGwAAP53s3enk6fj5rb0vSU11IlfpoHCc869bTLfgAGX4uGPY+sI9l3A5dReI3TtSsCV78AAAA=="
   },
   {
     "id": "DSCF0763",
     "src": "/photos/DSCF0763-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0763-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0763-480.webp",
         "w": 320,
@@ -3190,12 +3705,17 @@
     "height": 7728,
     "takenAt": "2025-08-07T11:19:42",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdMoACwfkljOFx1Gaj0AD+xYfBqKwwb7YOiMhCLX42eAsB3V08MqlOasu0Xqh1d33Mice0Azp4fMAjywJcdVcwukT2PchE9fhIiC+7AAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdMoADg61e/yYwA5fsAAD+xYfBp/etCDRD+ouq4Ds5LN1/6HxcnN7G2a4lKuh6g3ptb0RFsUXP7To7E47iN7sYEb1JnpYadaiBTzIZ7jAA"
   },
   {
     "id": "DSCF0831",
     "src": "/photos/DSCF0831-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0831-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0831-480.webp",
         "w": 320,
@@ -3221,12 +3741,17 @@
     "height": 7728,
     "takenAt": "2025-08-07T11:55:56",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAwCdASoMABIAPu1iqk2ppaQiMAgBMB2JZQC7ABu2jng9gMNZeFyQAP51fNpTdnOEttyDujygHvMF5WdKsKcPCIEdxrS0HFHSJX7VF1MS+3Sn07oWt/Cd30O7KgBTlHRQAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZQC7ABu2uPVRjoYjIzfgBhAA/nV82jggb5H69yy67fdBKB18+yJKjXo83/ij6/sFbll2UjPA0mJsDsbLwDeONMJQaw7JCcKOigAA"
   },
   {
     "id": "DSCF0901",
     "src": "/photos/DSCF0901-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0901-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0901-480.webp",
         "w": 320,
@@ -3252,12 +3777,17 @@
     "height": 7728,
     "takenAt": "2025-08-07T13:00:11",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JQBdmUAS1QiX8Y3ybYD+sIiAAAPzX/kR7XyypwpN2HmcHgPSlBQKvfqnuYOeO3AeGFjYERfK0bmUIcaJwHldUXVYAdBBozf1iy0rE1R2UjJca4+I9mCAP47pGTzigAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JQBdmUAS1AiiqGoqcacc5FCQAAPzX/kRj4K6eVBZqQ6WzWOVvkVGPtOszsVxkCg6P6pF4biY0rRlfoc4NyoR3+UXg1eRDmmp31YptubBUj7FhbB4jTNvOoNd6j09TAAA="
   },
   {
     "id": "DSCF0971",
     "src": "/photos/DSCF0971-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF0971-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF0971-480.webp",
         "w": 320,
@@ -3283,12 +3813,17 @@
     "height": 7728,
     "takenAt": "2025-08-07T14:13:16",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASoMABIAPu1iqk2ppaQiMAgBMB2JYwCdMoR3ACnCBhqcTRihhFEMKAAA/ulYfNvrqsbz1pBogSQyOrJ8KvYwDd+m5LVBSvkbfCP5HXdepDs8G8cXN2mNJs/m+IM+9iAA"
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwBACdASoMABIAPu1iqk2ppaQiMAgBMB2JYwCdMoADTjm/geErBc3sMQAA/ulYfNvrqsbzVkSzuClz90ySOr7G9ksMA1yAMxeGlBUO3wG4WHgCSlFFh4weewgSrJU/6PgAAA=="
   },
   {
     "id": "DSCF1014",
     "src": "/photos/DSCF1014-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1014-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1014-480.webp",
         "w": 320,
@@ -3314,12 +3849,17 @@
     "height": 7728,
     "takenAt": "2025-08-07T15:02:29",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOmUFHbAT/pWiRVTKIAAP6pW/ry+jrq0TOvL141UeE6t0nn4i1zusowfPetizUDA8/CaBy2mATghZqrYJXfe8zsGEvreSeHibexHAYVfqjOq0qwyjBaZ2HT6KIAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOjatgJ/3iiKgV5Sv7PAAD+qVv68vo66tEzry9eNVHnz40stknOL12criEP57lSN7DiM4o82FAjzGAGwX6AEYzdfHOgdpTCVVDDxFDs2ZVqOOFPgxrGe9/GBd1PlRgAAA=="
   },
   {
     "id": "DSCF1124",
     "src": "/photos/DSCF1124-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1124-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1124-480.webp",
         "w": 320,
@@ -3345,12 +3885,17 @@
     "height": 7728,
     "takenAt": "2025-08-21T16:37:47",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwAAS+VOeuQVxikUwAD2CLkny2fsj/ovOdT+nPiu4wHZ7jh/9hB7PByiU+EnldsuUteyfDpTAUOx+xwv8B1Ob4MUnCRjaf272/ezu3Enl7IbEWuIP2Lq+AyNqPGU+nrKvt3TlD9PkQAA"
+    "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwAAS+U2jg0m4U5uhAD2CLkny2fsj/ovOdT+kFzAOXbaRbciK8NKpBOlbEXBQyCZFghW9CgpgKHY/Y4X+A8ftQTWIbYT0P56dyUhrZCNiF9IUOu/Q7F1fAZG1HjKfsA+xpB0w/mU/AAA"
   },
   {
     "id": "DSCF1127",
     "src": "/photos/DSCF1127-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1127-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1127-480.webp",
         "w": 320,
@@ -3376,12 +3921,17 @@
     "height": 7728,
     "takenAt": "2025-08-27T07:27:30",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQCsABuOkw/lGbVHoAD+icf4AKltj9rH005LtU2nrOKYsVHLpRT9pobPUs7Q2fhpYlzofLMLHgBuJIDfAp2XP5fRSamAu+6dVN72ZJTAk0Tb+GlCPkqMLhmSOHyg1SzkAAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQCsABuOk0DL5xsLbgAA/onH+ACpbY/ax9NOS7VNp6zimLFRy6UVXNGwECp13RZioN6WBUsBE/FYLnAIfAtfeouvnnBCJVvJewDVChKq1UpQJQulZ4n79Ww7rbUds8gAAA=="
   },
   {
     "id": "DSCF1128",
     "src": "/photos/DSCF1128-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1128-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1128-480.webp",
         "w": 320,
@@ -3407,12 +3957,17 @@
     "height": 7728,
     "takenAt": "2025-08-27T07:27:39",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JYwC7ABX6kk6cW+mLFqwA/u9bqx11z+jiUllyNWxjEcM7gw0jinqFPjimsKtseU2yso9ROMt08X6o5LfPvkHZrYn8ZxmNIJKNWfoTReRPx40GRydA6IvrojeQUzOrIBgGt+MB23fDSA/PlD2uG6g/nAA="
+    "blurDataURL": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwDCgBX6kk68OZhe/dQA/uzQ2fRUHxzX4dTawsGUR7kgP+a4oFjM1L4PGR9mJBFcLwJu+kIpkOcSVbPvkHZrYn8ZxmNIHSm9KNvjgc248aDI33S6SnDYVNBQa4AMiIUmAncRLW6L1uYAhoIAAA=="
   },
   {
     "id": "DSCF1139",
     "src": "/photos/DSCF1139-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1139-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF1139-480.webp",
         "w": 480,
@@ -3438,12 +3993,17 @@
     "height": 5152,
     "takenAt": "2025-08-27T07:30:01",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoMAAgAA4BaJYwAAu0e47kNpPwAAM472rtD8vdOkWL68XegduGS3+oUD1BzGLvj6YjiAu9iHSaIWYHXAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoMAAgAA4BaJYwAAu1/wDSYsFgAzjvau0Py906RYvrxd6B24ZLf6hQPUHMYu+PpiOv3dp5wy5OBTAAAAAA="
   },
   {
     "id": "DSCF1145",
     "src": "/photos/DSCF1145-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1145-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1145-480.webp",
         "w": 320,
@@ -3469,12 +4029,17 @@
     "height": 7728,
     "takenAt": "2025-08-27T07:31:32",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZwC/OBwshZSMSETmNrV1PMAAzjKS+WcCRGSGtr1QF/NVhog6qXjUd0jxR3y3EJegtGM/GCjC81VthcQLKnYcST/+fgAhNVDJr7cl6Y1JIgAA"
+    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZwDCgBnzJKSyig6T821mcADOMpL5ZwJCgQ1terslx3+G9uv3jrTvw7ypvBCXeZ9WVDf5GM0uqfxKO5l9Vb+2uZB13ksHKrUtN4DALAAAAA=="
   },
   {
     "id": "DSCF1151",
     "src": "/photos/DSCF1151-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1151-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1151-480.webp",
         "w": 320,
@@ -3500,12 +4065,17 @@
     "height": 7728,
     "takenAt": "2025-08-27T07:34:52",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JQBOkBu4AAIWjneXV29AA/utcXt+hVM9iehT6DYnKQZzRBnGLTCymMZOENpgmn1ZHMArs+eSjAFqNAtlq6bV2FVXMSWpWQHXbREg+9terr9xkaO6WwHyFFpbJa1PyTbom015Ea10AAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOkBu4AAIWiL7YWU8LlemwA/utcXt+hVM9iehXOnKkoCk9obzkC0ylHvDBAGpVJbkm3jxPzJBnRUvF36tTz5xu/ueeEjvVx6OtsOoP930rZ/RDLg/qzWbnjLdgAu15Jt0Taa8iNa6AA"
   },
   {
     "id": "DSCF1158",
     "src": "/photos/DSCF1158-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1158-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1158-480.webp",
         "w": 320,
@@ -3531,12 +4101,17 @@
     "height": 7728,
     "takenAt": "2025-08-27T07:37:03",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBdgBDmPZXY8nAD+nX2J+JhPME/eK6gVGYvxK7NrurXaUv737kjPpsa4dBrXOeAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBdgBDv42jSWlTHAAP6gWd5S+WBly+/hqxT1+RKkPqdnaodWNEDaZwrhKkp6aSUQAAAA"
   },
   {
     "id": "DSCF1167",
     "src": "/photos/DSCF1167-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1167-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1167-480.webp",
         "w": 320,
@@ -3562,12 +4137,17 @@
     "height": 7728,
     "takenAt": "2025-08-29T21:05:51",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYgCdACHfswpN1uEJPcywAP7pP3UzHZYJIRGPzaPXj0IzUywTMcrMKhvpaqPri2dcsr7xYylkIHyH8ZaODRkPomr/wAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYgAAW+sSc78bNOhENaAA/ulAAYcdm/WIDcqBWSeNz2UpFBEx3e6fjPFOfDVmJmB/9UbKqUfidgpcrFuVN04U4AA="
   },
   {
     "id": "DSCF1171",
     "src": "/photos/DSCF1171-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1171-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1171-480.webp",
         "w": 320,
@@ -3593,12 +4173,17 @@
     "height": 7728,
     "takenAt": "2025-08-29T21:08:26",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZQCdABuT+TVz1EPAX9ZXwAD+0VnFxFCS6TB4bTeIDU/008C2bnPQfufW9OlQkprh3Z/G+eR4och2Ly52ag5WRXOyqme2vu5GHDSna9LJEm5VtWBQJFfmSvUY8AAA"
+    "blurDataURL": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZQCdABuT+TVz08UXrRWogAD+0VnFxFCS6TB4bTeIDaKU9Jwqy9QurixnzBYE0MuNwutgJDZQlpM4CjPDMFQhFMi4D9o22vmviHeEeQJn3GQnzmUQlmanfUW+VxAA"
   },
   {
     "id": "DSCF1172",
     "src": "/photos/DSCF1172-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1172-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF1172-480.webp",
         "w": 480,
@@ -3624,12 +4209,17 @@
     "height": 5152,
     "takenAt": "2025-08-29T21:08:35",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoMAAgAA4BaJYgCdAE2zwKnTNgAAPRT/bsttdviKgPnUvlebucBO0poKa9XzTyZ9FRSrdXNiUKvui7tnAAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAgAA4BaJYgCdACUbJHoAAD2aucam94lidMk+m80BDjHmy7QhF9hAanTvkdYq5Yj+5+uaAymYzIVfdF3bOAA"
   },
   {
     "id": "DSCF1176",
     "src": "/photos/DSCF1176-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1176-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1176-480.webp",
         "w": 320,
@@ -3655,12 +4245,17 @@
     "height": 7728,
     "takenAt": "2025-08-29T21:08:57",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASoMABIAPu1iqU2ppaQiMAgBMB2JYwCw7B6BwjPA3ko0N7NRgADftDtIgKTkubbbd9m6qtS5/a2V86VmCYeJtiF9wVs3KKOz6UqxkNOja8Jf32rlqGZiVVsTgpgIzWf/TvEIAAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCw7B016ylmnrDostJQAPg+2x7lx84eIEmpUjepkHlati2Lbz5lp7OqGhbJ4yClzYCFSTkTspOjNCt3RXK5p5DY3ASjcVjfJBYzTvEIAAAA"
   },
   {
     "id": "DSCF1186",
     "src": "/photos/DSCF1186-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1186-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF1186-480.webp",
         "w": 480,
@@ -3686,12 +4281,17 @@
     "height": 5152,
     "takenAt": "2025-08-29T21:37:43",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoMAAgAA4BaJZgCdAED+/p/33AAAP70ktus2q12i+kgyBdw3LakYgKdVFZJ6pZGg7mYpQ1YtryCbymVlivassh+8asAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAgAA4BaJZgCdAED/aIMR1uAAP70ktus2q12i+kiVNpRFE8g8J8TbhNjhzs5Lej+mpx82y/hg1v2sd3LK/8YAAA="
   },
   {
     "id": "DSCF1206",
     "src": "/photos/DSCF1206-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1206-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1206-480.webp",
         "w": 320,
@@ -3717,12 +4317,17 @@
     "height": 7728,
     "takenAt": "2025-08-29T21:47:50",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAAUrSPlSAAAP70MtVAh+jI5of7lh1shIjlb1Q8wTZCWQgAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAAW/EKMarAAP7yp55i7uCPb070lRUuaRZaL7Wow6rluLAAAA=="
   },
   {
     "id": "DSCF1220",
     "src": "/photos/DSCF1220-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1220-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF1220-480.webp",
         "w": 480,
@@ -3748,12 +4353,17 @@
     "height": 5152,
     "takenAt": "2025-09-02T19:54:18",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoMAAgAA4BaJZACdAD8ZIyThCQgAP7vVJTjB1ekwAJlWuU/GuL0jfyQbF1JemWi7DQw2W0Ztdk2DVoc2IC3XdEGUFfEmEygAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoMAAgAA4BaJZACdAEX9GWZoLgAAP7vVJTjOhVQT276XuPzDre1yjeEyldA5nGHyt4OFIx6OeAkKkDaq4CrG1g2UFfElqAA"
   },
   {
     "id": "DSCF1230",
     "src": "/photos/DSCF1230-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1230-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF1230-480.webp",
         "w": 480,
@@ -3779,12 +4389,17 @@
     "height": 5152,
     "takenAt": "2025-09-12T18:27:22",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoMAAgAA4BaJQBOgMVByaOOuemAAP5yQ1NAH4wqaX7KGclBQrX50Qd2lwd3Lih3/PvPCIlEQoECBHmEmj4DmHgA"
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMAAgAA4BaJQBOgB6M5Zk8gcAA/nJDV7MYevPuUl/683MTJyMvzkKKB6mWcZpz/JCEPvpX+585jAjAn4l6zlNtwAA="
   },
   {
     "id": "DSCF1238",
     "src": "/photos/DSCF1238-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1238-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF1238-480.webp",
         "w": 480,
@@ -3810,12 +4425,17 @@
     "height": 5152,
     "takenAt": "2025-09-12T18:41:02",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoMAAgAA4BaJQBOgCHeuFXXhAAA/rX/4/zNY4jFl3/g05b+PfQv9wAMV1AhtT4Ibnky3NNm8nhcGPbwAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoMAAgAA4BaJQBOgCHeuEkkAAD+tf/j/M1jiMWXf+DTlv499C/3AAxXUCG3ir0PrLdBs9oWcA0hH1chKAA="
   },
   {
     "id": "DSCF1251",
     "src": "/photos/DSCF1251-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1251-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF1251-480.webp",
         "w": 480,
@@ -3841,12 +4461,17 @@
     "height": 5152,
     "takenAt": "2025-09-12T19:21:51",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoMAAgAA4BaJQBOgCIOysZ/QAD+62B92pG1TEBgU0oxp50NCbmF5+BJfd+2DI1YP3lFDkxG4ULF5Jh8I9AAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAgAA4BaJQBOgCIOy531AAAA/utgfdqRtUxAYFNJmHfS5I5au9qG1+5IYd+3lBAzaS0RTWV5q8yNbzUgAA=="
   },
   {
     "id": "DSCF1267",
     "src": "/photos/DSCF1267-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1267-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF1267-480.webp",
         "w": 480,
@@ -3872,12 +4497,17 @@
     "height": 5152,
     "takenAt": "2025-09-12T21:09:29",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoMAAgAA4BaJbACdADW2XiQAP7xp81UfeCkugvkJMx+BB+yfjsHh8zknIJG8NyvmeOGvzfA7wKpNOVepr3OpUldoK0AAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoMAAgAA4BaJbACdADW2Xn4AP7xp81UfeCkugvkJMx+BB+yf8nqp0Rjk8UGUc89u1qBWp6+oNggsq5W/b8cotSax7r5AAAA"
   },
   {
     "id": "DSCF1274",
     "src": "/photos/DSCF1274-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1274-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF1274-480.webp",
         "w": 480,
@@ -3903,12 +4533,17 @@
     "height": 5152,
     "takenAt": "2025-09-13T07:33:45",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoMAAgAA4BaJYwCdAEO43itygAA/VP+NQrhHwSsSad+xMlWL39r6/z9R3iz0HgkIIZ+RIDtJ9AAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoMAAgAA4BaJYwCdAEOlmk36AD6n/m6lL7fOwZe/Yymy/q/Zft/a17uxBKKFlQblHAeP0mAAAA="
   },
   {
     "id": "DSCF1275",
     "src": "/photos/DSCF1275-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1275-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1275-480.webp",
         "w": 320,
@@ -3934,12 +4569,17 @@
     "height": 7728,
     "takenAt": "2025-09-13T07:43:36",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaAC06Brc3ix7ljfwAP4UzPAz/9Ks+v7rCC+FF7pIlDS3N4Oor6oX2x/yO49vp4h3VD05DWQHQlgJ+zLCaJGuAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaAC06BrZBi5feAAA/hkwzucYaGKIU3naPic2d8fXAMMEx6MwhRr2lhuEcFf3RKUF6JLhAZVVAkTyLcJtxgAA"
   },
   {
     "id": "DSCF1303",
     "src": "/photos/DSCF1303-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1303-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1303-480.webp",
         "w": 320,
@@ -3965,12 +4605,17 @@
     "height": 7728,
     "takenAt": "2025-09-13T09:04:06",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JagCdMoADQ3PYDOFB1qAA/trDSA1z1309JU5Jw3+ddWEiU66NViMacWKP/OkUg7Jq+vgUX40+xHHXjfIxczHnzAVZX9IZAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JagCdMoMpAEigkMnqfH7fgAD+2sNIDXPXfT0iAsMST0pKrE9ipQqzo8gxSh9qKfbnur81TMbOp2DPLLMxC70WpVrqjgAA"
   },
   {
     "id": "DSCF1445",
     "src": "/photos/DSCF1445-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1445-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF1445-480.webp",
         "w": 480,
@@ -3996,12 +4641,17 @@
     "height": 5152,
     "takenAt": "2025-09-13T19:38:34",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAgAA4BaJagCdAEOuuIQAP7l/8y5Kgene2HdHkDyvnNahF1eq0otgAA="
+    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoMAAgAA4BaJagCdAEOwWAL4AD+5f/MuSoHp3oxXNVVLi2pTVS01xZ+QAA="
   },
   {
     "id": "DSCF1518",
     "src": "/photos/DSCF1518-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1518-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1518-480.webp",
         "w": 320,
@@ -4027,12 +4677,17 @@
     "height": 7728,
     "takenAt": "2025-09-18T10:35:22",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAwCdASoMABIAPu1iqk2ppaQiMAgBMB2JZACdMoADTqXeJV4AWw2AAP7ovWzA9d309J18JbmX2inFuBnIhiTEbg6kPhMHcZ5mlMkE3RnVxvLetadxf7cS1heHSotYpY0a7wKNtR884lgA"
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAwCdASoMABIAPu1iqk2ppaQiMAgBMB2JZACdACHfe9SEufQGpgAA/ui9bMD13fT0nXwluZfaKcW4GciGJMRuDqQ+EwdxjImiJuxAFcGuD7E28sYsx2mSmQCKg0WjLcvWjGwT29uVYAAA"
   },
   {
     "id": "DSCF1540",
     "src": "/photos/DSCF1540-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1540-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1540-480.webp",
         "w": 320,
@@ -4058,12 +4713,17 @@
     "height": 7728,
     "takenAt": "2025-09-18T10:45:58",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYgAAW6mlqBMN0aGDo8YDAAD+IqblD0uhWXXvk6nG8+n/fXWR+udsJc+8gGWQnfYd9LhzWv2ZP8Yk/6tnG/pK28MhA8Wo9NuAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYgAAW6mlqBMN0SsxXW+QAP4ipuUPKYqh2t8djdZnBgp5KWr4YDUDT45Z/MqZ0X8DPoZup5rb4ihP4NaP/e4O+WSFQw9YVLAAAA=="
   },
   {
     "id": "DSCF1552",
     "src": "/photos/DSCF1552-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1552-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1552-480.webp",
         "w": 320,
@@ -4089,12 +4749,17 @@
     "height": 7728,
     "takenAt": "2025-09-18T10:46:11",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQAAKUB97FUxDV2rvOAD+olgmERC5TKPRJxLIrZrnLkMoBItlOt3InuzSVdn473U3O/LuCv/Vs439JW7vbomdtm/VP/26oJsJlBWgAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQAALd+dwMF3GgZukfgAA/qIt4YIOOf56p4im3LTPvmeUoQ9YMHTKH7+sJRTAjBWnY/HzD7/9Wzjf0lbu9tn0oW36p/+3VBNhMYMgAAA="
   },
   {
     "id": "DSCF1557",
     "src": "/photos/DSCF1557-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1557-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1557-480.webp",
         "w": 320,
@@ -4120,12 +4785,17 @@
     "height": 7728,
     "takenAt": "2025-09-18T10:46:14",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBjesWgb46pNUCDRUM0AAP6iLYmZiv7WLf89mi2byabhqhwq/pyGovqWGpXz1SszfNw15WnwVm7/dGRW3wHw/R9/OvrQHg4cSHDZ6tz7fSLSyHnBa4AA"
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JYgDE2Yto3x1SaoGheWLAAP6iLYmZiwNhH065geg77abhqh1k5mXeYmI/SVXDJnzJnHkhsvK1G3bAo3xYPOxH9hZp8GmJOTP4kh91U5/Jp/THXJYj2SAA"
   },
   {
     "id": "DSCF1571",
     "src": "/photos/DSCF1571-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1571-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1571-480.webp",
         "w": 320,
@@ -4151,12 +4821,17 @@
     "height": 7728,
     "takenAt": "2025-09-18T11:03:28",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwCsABu1Gjhz11I4AAD+3t9ZucmJL3uUxldGOrgCyQ4jH2b1AewjI73Dg5K9PUVo47LWRo2+1a4GeJHZ/XxvzuBLPmd5gzZTcaNUAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwCsABuxhOsvOoh5gP4AAP7e31m51gG1xTflN4ly1y4zALFlleDRYRyp2FtQx7KT8Jq5nw+VgsX3GHiBi5aBJICdttgA"
   },
   {
     "id": "DSCF1813",
     "src": "/photos/DSCF1813-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1813-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF1813-480.webp",
         "w": 320,
@@ -4182,12 +4857,17 @@
     "height": 7728,
     "takenAt": "2025-09-18T13:17:55",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZACdACHHZWIBKOqQAP7ivgE4bxMX9F9iLCaRTzNV4cB5s9UQ5tIvjGCzGzoaNYM8B/4On6TXwg8bRNyWYV8YevDuDqCDnQAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZACdACHNwdFXjtS93IAA/uK+AThvExf0X7osHu/I4Nak4opKR7Fd+AL76ENGsGeA/8HT9Jr4QeTEGyQUUfBk4MkMe4MVQAA="
   },
   {
     "id": "DSCF1963",
     "src": "/photos/DSCF1963-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF1963-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF1963-480.webp",
         "w": 480,
@@ -4213,12 +4893,17 @@
     "height": 5152,
     "takenAt": "2025-10-05T15:16:49",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoMAAgAA4BaJZgCdAYtL28XRlrWAAD+72T++bNGQPItd3biMPoLjNzsHtpFce5BCFM6X5C3arz4aL96r2YjRTnO8jvAoAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAgAA4BaJZgCdAYsF28W7ub4AP7vZPzvFFUsqg4FYkfuzgxz5UuUYYscPMRhmjkEqgdS3JcQM2gKV0LDzVIe+AA="
   },
   {
     "id": "DSCF2026",
     "src": "/photos/DSCF2026-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2026-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF2026-480.webp",
         "w": 320,
@@ -4244,12 +4929,17 @@
     "height": 7728,
     "takenAt": "2025-10-08T12:19:14",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JQBfnA9JobkpDHVZsOo7hAAD+3x0z8F6dQewyiR0qbiNg9GY98knA5Xp3vIOP1Wy/YHCei/nZvgCDWshC2wM4AAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBfnA9JobknRUMTnZ4dAAP7fHTPwXp1B7DKJHSpuI2D0Zj3yScDlene8g4/VbLppwNGmWC7CQBXRK7VLK7IAAAA="
   },
   {
     "id": "DSCF2034",
     "src": "/photos/DSCF2034-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2034-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF2034-480.webp",
         "w": 320,
@@ -4275,12 +4965,17 @@
     "height": 7728,
     "takenAt": "2025-10-08T12:24:27",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBdgBFk17wqAo3QAAPZHq4ShniQfA+ZTRNGBHLAo7y5vxZA9aexE/HdCpH7b9ESphzc9YPZPz8vR3jB8azgAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBdgBFk170LWSnQAAPZHq4ShniQfA+ZTRNGBHLAo7y5vxZA9aexE/HdCpH7b9EK6WwW+Wdk/Py90SqJ8cNAA"
   },
   {
     "id": "DSCF2085",
     "src": "/photos/DSCF2085-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2085-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2085-480.webp",
         "w": 480,
@@ -4306,12 +5001,17 @@
     "height": 5152,
     "takenAt": "2025-10-10T11:59:06",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoMAAgAA4BaJZQC7AD0ZSujoADeY/4ohHp7r++oV/CiUKgZ7a1Ngllw/Jvp66AA"
+    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoMAAgAA4BaJZQC7AEO9QtFEADeYs0cHTSFeOG4aIrbSk0/5lHinblJ+7NggAAA"
   },
   {
     "id": "DSCF2130",
     "src": "/photos/DSCF2130-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2130-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2130-480.webp",
         "w": 480,
@@ -4337,12 +5037,17 @@
     "height": 5152,
     "takenAt": "2025-10-16T19:21:18",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoMAAgAA4BaJaACdADhZFRZ7EAA+pwgQbx+46sk7FOdeUSX4jvFytXD4R02fYhWQhx5Eldq1AAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoMAAgAA4BaJaACdADcOlZxgAD6nCBBvH7jqyTsU5/H5+2aHdO8d4OaxezstJyYhWQfKJdUpceAAA=="
   },
   {
     "id": "DSCF2145",
     "src": "/photos/DSCF2145-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2145-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2145-480.webp",
         "w": 480,
@@ -4368,12 +5073,17 @@
     "height": 5152,
     "takenAt": "2025-10-16T19:28:05",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoMAAgAA4BaJZQCdAELy45uAAD+3c29Y848DwwLWlU0WmKLZPo+xash2Auxz/6OAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoMAAgAA4BaJZQCdAELy4pqAAD+3c29Y848DwwLWlU0WmKLZPo+xash2Auxz/6OAAA="
   },
   {
     "id": "DSCF2148",
     "src": "/photos/DSCF2148-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2148-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF2148-480.webp",
         "w": 320,
@@ -4399,12 +5109,17 @@
     "height": 7728,
     "takenAt": "2025-10-16T19:29:56",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBdgBDtN4hDxN78AAP7wx50cstsLayNl04ETjYDyLaZ2qRPYEgLyySV+LzoSe2yIiZt2X2uwAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBdgBDtMhyegAP7wx50d5l3LX8bBYYI7GLbC2c3lkucX+cjAE9gSAvLJJW60HwMoQcoiJfu/YAAA"
   },
   {
     "id": "DSCF2149",
     "src": "/photos/DSCF2149-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2149-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF2149-480.webp",
         "w": 320,
@@ -4430,12 +5145,17 @@
     "height": 7728,
     "takenAt": "2025-10-16T19:30:04",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JYwC06CHcxamK2DSlBwAA/u6DZBiM3vb16k5Y860kibzFwAilGtLNIfNF5ZDB0VXRoS718TuUd2AAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwC06CHTC4SVrMVoAP7ug2QYih82G78p0PWVU1bt1zrph2h32pcr/0FkcK+eAVbL2ibWesAAAA=="
   },
   {
     "id": "DSCF2159",
     "src": "/photos/DSCF2159-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2159-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2159-480.webp",
         "w": 480,
@@ -4461,12 +5181,17 @@
     "height": 5152,
     "takenAt": "2025-10-16T19:33:21",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoMAAgAA4BaJZACdADblM6bwAD+3YL4xUgLaXTynwfw+QKtX05BvjUw6hX6HBZmnPact77tiKd24qMk8Y5LXE4AAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoMAAgAA4BaJZACdADblM6bwAD+3YL4xUgLaXTynwRTaDg0VtADwCL48vhtT9KvXsh/gFi87xcvioyTxjktcTgAAAA="
   },
   {
     "id": "DSCF2163",
     "src": "/photos/DSCF2163-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2163-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2163-480.webp",
         "w": 480,
@@ -4492,12 +5217,17 @@
     "height": 5152,
     "takenAt": "2025-10-16T19:35:07",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoMAAgAA4BaJaACdAELyypm1gD+9FUbSbLyym9332UEQFqHXOQ38VHVIl+0/R8ti162d/bdoJjKtWKIJgAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoMAAgAA4BaJagCdAELyypkUAD+9FSRwUvaRh3RgfseuqWwbFxbX/ruC3Vo6PlYtcWa5gaoJjKtWKIiQAA="
   },
   {
     "id": "DSCF2172",
     "src": "/photos/DSCF2172-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2172-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2172-480.webp",
         "w": 480,
@@ -4523,12 +5253,17 @@
     "height": 5152,
     "takenAt": "2025-10-23T01:53:27",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoMAAgAA4BaJQBOgCLKFEYaLAD5LGJRndAsqDM1JR5x0CBWcx8hz03xjXB1s0/4YGr3hS3Lr4XXqaDAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoMAAgAA4BaJQBOgCLKFEYX9AAA+SxiUZ3QLKgzNSUecdAgVnMfIc9N8Y1wdbNP+GBq94Uty6+F16mgwAA="
   },
   {
     "id": "20251028_Cairo_0464",
     "src": "/photos/20251028_Cairo_0464-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251028_Cairo_0464-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251028_Cairo_0464-480.webp",
         "w": 320,
@@ -4554,12 +5289,17 @@
     "height": 7335,
     "takenAt": "2025-10-28T04:08:09",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZQCnFBYc16lnL71AAP6OF679Y9RlWHQ4ziMjpa8yFXrrmLkRsFtGkKNw5g1eN0+ygTWoHdB0i6PtQ+LCfGu+uZLTrXZfF7HS8HV3Y1WtugAA"
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQC06BWmUckT9R4PWAD+jheu/WPTeWeJS/GYC1uQk3eqDuc+/41CBZrIWLcl4OA51DviTUqtzY/s3+LCfGvE9Fp5V6NZ7t000FrSAAA="
   },
   {
     "id": "20251028_Cairo_0468",
     "src": "/photos/20251028_Cairo_0468-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251028_Cairo_0468-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251028_Cairo_0468-480.webp",
         "w": 480,
@@ -4585,12 +5325,17 @@
     "height": 5152,
     "takenAt": "2025-10-28T04:13:56",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoMAAgAA4BaJYgCdAEUmgVUEQAA/u7X6INv34lmZ11+ZB8/Wiorzoq8KpwrE+meH1eg7i4ZDEK0m0iQAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoMAAgAA4BaJYgCdAEUqWuO7qwA/u7X6INv34lmZ11u1mDH9GkGqshQWj1o1S5OtU1Ex6NNSr1oioAA"
   },
   {
     "id": "20251028_Cairo_0483",
     "src": "/photos/20251028_Cairo_0483-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251028_Cairo_0483-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251028_Cairo_0483-480.webp",
         "w": 480,
@@ -4616,12 +5361,17 @@
     "height": 4927,
     "takenAt": "2025-10-28T04:31:59",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoMAAgAA4BaJYgCdH8AE6JGeQ0AAPHWQu//gPXNqFnK5dFFOBFpwz54hx8URydB92xD9xAA"
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoMAAgAA4BaJYgCdH8AE6DwSqwAAPHWQu//gPXNqFnK5dFFMdyJIuWAj0NQwK8Ny3OxD74AAAA="
   },
   {
     "id": "20251028_Cairo_0488",
     "src": "/photos/20251028_Cairo_0488-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251028_Cairo_0488-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251028_Cairo_0488-480.webp",
         "w": 320,
@@ -4647,12 +5397,17 @@
     "height": 7728,
     "takenAt": "2025-10-28T04:42:00",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JYwCdACBst/n4cKKaheFAAP7V3uoIZAahByPqU3/Wq5XrZUFbYhYHY9wdQ1+9F4u/8KgHL/wvK7XgAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdACBsugeIQQ9xt/xAQAD+1d7qCGQGh59dumoy9dKs9gxIKTHbILJ3pZ4t4M0Q0oi0pybqPK8AAAA="
   },
   {
     "id": "20251028_Cairo_0497",
     "src": "/photos/20251028_Cairo_0497-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251028_Cairo_0497-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251028_Cairo_0497-480.webp",
         "w": 480,
@@ -4678,12 +5433,17 @@
     "height": 5152,
     "takenAt": "2025-10-28T04:46:53",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoMAAgAA4BaJYgCdAEUWfaOiAbAAP3jnrwAfJYfNgWtx9Vo00Ac9A6tVIhOw0TGFefX5xJEAY0XRbYEliF8AAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoMAAgAA4BaJYgCdAEUu/39HrZIAP3jnrwAfJYfNJ2tx9VliHfUGKPO23aNpADLsUkWAkG2pkqZUmNivmQgAA=="
   },
   {
     "id": "20251028_Cairo_0506",
     "src": "/photos/20251028_Cairo_0506-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251028_Cairo_0506-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251028_Cairo_0506-480.webp",
         "w": 480,
@@ -4709,12 +5469,17 @@
     "height": 5152,
     "takenAt": "2025-10-28T04:53:26",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoMAAgAA4BaJQBOgMV4z9WySTMwAP2owOcst4PAQFxYCtDW2kaKHlsN/0TxAMeWd8tP3xBgCyh5skxrqygNXyWrCAAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAwAgCdASoMAAgAA4BaJQBOgMV9z9WySNSMAAD9qMDhxRvGb51sLvpxUEILpl/41/0TxAM+WVfrKEXlTRFm8yEq/Q5ygNXyWrCAAA=="
   },
   {
     "id": "20251028_Cairo_0509",
     "src": "/photos/20251028_Cairo_0509-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251028_Cairo_0509-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251028_Cairo_0509-480.webp",
         "w": 320,
@@ -4740,12 +5505,17 @@
     "height": 7728,
     "takenAt": "2025-10-28T05:10:02",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdABuZx2hk57XTkJ5gAPuz+62EKKJ2MfrTMSGtfIi0JvxFSeehJ8kq313RzwErO5wIXJ+l12Bw71pFOayQK3xkbS2SDIQFXwuAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdABuZx0XKfF42mgAA+7P7rYQoonYx+r5sgnb+jQrZbg5ja7C2795kdw6/T+1AJ29522w/toG/ITftGk+A1ZZWJkTOH1tT578AAAA="
   },
   {
     "id": "20251028_Cairo_0530",
     "src": "/photos/20251028_Cairo_0530-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251028_Cairo_0530-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251028_Cairo_0530-480.webp",
         "w": 320,
@@ -4771,12 +5541,17 @@
     "height": 7728,
     "takenAt": "2025-10-28T06:16:15",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOmUI4ABVuzbJcAAP5sRLXOYYb7rQFWvGsabpXOvrbJ07j02hu8vcAn0wrD4Jy4S647Z4e5R9iZfo+KgoZt0chAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOmUI4ABVuzgbjSdAAA/mxEtc5hhvutAVa8axpulc5qSCcuPkl93jXWksKw19gvsods8Pm+vttFBV+ILYUAAAA="
   },
   {
     "id": "20251030_Cairo_0585",
     "src": "/photos/20251030_Cairo_0585-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0585-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0585-480.webp",
         "w": 480,
@@ -4802,12 +5577,17 @@
     "height": 5006,
     "takenAt": "2025-10-30T02:21:10",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoMAAgAA4BaJQBOgBuyNTBAwAD+6FSBWKR+g8H12v+UkAkDg650GuZ0c25Xi4MQ3u2MAAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoMAAgAA4BaJQBOgBntzyM4AAD+6FSBWKR+g8H12wE1dokMGt6MvgZkg0mhAeJfMSjjsq0AAAA="
   },
   {
     "id": "20251030_Cairo_0599",
     "src": "/photos/20251030_Cairo_0599-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0599-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251030_Cairo_0599-480.webp",
         "w": 320,
@@ -4833,12 +5613,17 @@
     "height": 7728,
     "takenAt": "2025-10-30T02:31:48",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwAAXkPrvlThnAwAAP4EkKO5d3olavnLL2tsqdg1Wv+6FqPhBo7dGQbWOAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwAAXkPrhAtmrawAAP4EkKO5dDVi9u4tD9eom5XqR1bV4qDPeGjt0ZBs4oAA"
   },
   {
     "id": "20251030_Cairo_0625",
     "src": "/photos/20251030_Cairo_0625-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0625-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0625-480.webp",
         "w": 480,
@@ -4864,12 +5649,17 @@
     "height": 4940,
     "takenAt": "2025-10-30T03:13:24",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoMAAgAA4BaJQBOgCIje6W0gAD6GqdNbVKLWGqtO7Dns9rsCuT4AAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoMAAgAA4BaJQBOgCIjek/gAPoap01tUotYXIMmd2HPZ7XYFcnwAA=="
   },
   {
     "id": "20251030_Cairo_0638",
     "src": "/photos/20251030_Cairo_0638-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0638-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0638-480.webp",
         "w": 480,
@@ -4895,12 +5685,17 @@
     "height": 5152,
     "takenAt": "2025-10-30T03:28:53",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoMAAgAA4BaJQBOgCEQ2W9AAPCKfWHS1Y8N4F9riKMWKGyyGwaZMi9R54AAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAABQAQCdASoMAAgAA4BaJQBOgC6gAP66Nnp/PAj/Ot0cJFiKZphvoB0mVqf4a4jd4O7kzBwAAAA="
   },
   {
     "id": "20251030_Cairo_0665",
     "src": "/photos/20251030_Cairo_0665-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0665-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251030_Cairo_0665-480.webp",
         "w": 320,
@@ -4926,12 +5721,17 @@
     "height": 7728,
     "takenAt": "2025-10-30T03:56:35",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACQAwCdASoMABIAPu1kqU2ppaOiMAgBMB2JZQDCgCHZevSuwdTgAP6vcSl0YRXMRQzMYIwgPF+F5HN7rfQvzoxZXZ8ZFohPEUsOMpA4kIYfss92+cvtyqH1uAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQAAWpl6FRs/oAAA/q9xR4L6FqDF1BzYo5sBJsleJshQlKxpqOp9sQM764qWigDrL7tTz7u1i0SUliSBs6AA"
   },
   {
     "id": "20251030_Cairo_0673",
     "src": "/photos/20251030_Cairo_0673-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0673-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0673-480.webp",
         "w": 480,
@@ -4957,12 +5757,17 @@
     "height": 5152,
     "takenAt": "2025-10-30T04:18:09",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAABQAQCdASoMAAgAA4BaJQBOgAWkAN1U+PToZufttGE6mJBQ+Q2e+uhtT4AAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAABQAQCdASoMAAgAA4BaJQBOgAWkAN1U+PToZuftv1RXl01Zkhs99dDanwAAAA=="
   },
   {
     "id": "20251030_Cairo_0678",
     "src": "/photos/20251030_Cairo_0678-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0678-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0678-480.webp",
         "w": 480,
@@ -4988,12 +5793,17 @@
     "height": 5152,
     "takenAt": "2025-10-30T04:38:01",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoMAAgAA4BaJYwCdAEYGcfof9q8AAD+6hU86p+pLy5Di5oocWV0JlLobCPsjRjYtUo+CWF0MRWsSAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoMAAgAA4BaJYwCdAEDfUBpvD8AAP7mPeHyIiNKuhCyKFMoHtpXX7WtXJ58uCRF9FpD9iPXYAA="
   },
   {
     "id": "20251030_Cairo_0680",
     "src": "/photos/20251030_Cairo_0680-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0680-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0680-480.webp",
         "w": 480,
@@ -5019,12 +5829,17 @@
     "height": 5152,
     "takenAt": "2025-10-30T04:38:28",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAAgAA4BaJaACdAD0t9lbGIAA/un6WrvG5bd177g44hd4IGmGwPXqx/k+WFhk795AGHAuCAldcXNyOuH3AmfuRDAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMAAgAA4BaJaACdAD0t800VYAA/un6WrvG5bd177g44hd4IGmGwPXqx8DWnsWShIWryQJsV+qqe33beXdLCG6xQAA="
   },
   {
     "id": "20251030_Cairo_0683",
     "src": "/photos/20251030_Cairo_0683-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0683-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251030_Cairo_0683-480.webp",
         "w": 320,
@@ -5050,12 +5865,17 @@
     "height": 7371,
     "takenAt": "2025-10-30T04:39:01",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdACHgPsq/ltQA/M7Lxeggdnx2z43BGKGx0D07mOIpap947G4AAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JYwCdACHgDmET7MPbBjsAAPzOy8XoIHgzKq6vP0jFDY6B5QhGK+ZIAAA="
   },
   {
     "id": "20251030_Cairo_0687",
     "src": "/photos/20251030_Cairo_0687-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0687-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0687-480.webp",
         "w": 480,
@@ -5081,12 +5901,17 @@
     "height": 5152,
     "takenAt": "2025-10-30T04:41:45",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAQCdASoMAAgAA4BaJYwCdADdGFuAAP6pIaqwruXJ1YIwz9XgAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAADQAQCdASoMAAgAA4BaJYwCdADdF40IAAD+qSGqsK03de1Hyfo56wAA"
   },
   {
     "id": "20251030_Cairo_0692",
     "src": "/photos/20251030_Cairo_0692-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0692-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0692-480.webp",
         "w": 480,
@@ -5112,12 +5937,17 @@
     "height": 5152,
     "takenAt": "2025-10-30T04:44:21",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABwAQCdASoMAAgAA4BaJSYAIwARYAD+66EsHHkkTRPlWwS2+k8fRhNJOZV/fNAA"
+    "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABwAQCdASoMAAgAA4BaJSYAIwAVSAD+60vUu2W7SsANfV5jCXJGjCaScyiifgAA"
   },
   {
     "id": "20251030_Cairo_0697",
     "src": "/photos/20251030_Cairo_0697-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0697-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0697-480.webp",
         "w": 480,
@@ -5143,12 +5973,17 @@
     "height": 5152,
     "takenAt": "2025-10-30T04:48:12",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoMAAgAA4BaJYgCdAELhHv6nvQA/UgUc7U8GjSRjxiEqEKokNnwcdxnBjHAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoMAAgAA4BaJYgCdAELhG3RdPgA/UhC2d8Soyxnpgz4sWnLIbJvd15zlcAAAA=="
   },
   {
     "id": "20251030_Cairo_0699",
     "src": "/photos/20251030_Cairo_0699-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0699-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0699-480.webp",
         "w": 480,
@@ -5174,12 +6009,17 @@
     "height": 5152,
     "takenAt": "2025-10-30T04:51:43",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACQAQCdASoMAAgAA4BaJYgCdAB/PAAA/YdvLXLnesfqrqo7U3I4D/v5QAA="
+    "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACQAQCdASoMAAgAA4BaJYlnyRgAtIAA/tI+yuTR8cugo8XyyMZsu6sSyS0AAA=="
   },
   {
     "id": "20251030_Cairo_0703",
     "src": "/photos/20251030_Cairo_0703-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0703-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0703-480.webp",
         "w": 480,
@@ -5205,12 +6045,17 @@
     "height": 5152,
     "takenAt": "2025-10-30T04:54:32",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoMAAgAA4BaJZACdAEKh1A4AAD9kUxggZz3je91VpbNl3uztFpiwAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoMAAgAA4BaJZACdADFaQOAAP2Rs1ufCqW3KUq9VaWzZd7s7RaYsAAA"
   },
   {
     "id": "20251030_Cairo_0706",
     "src": "/photos/20251030_Cairo_0706-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0706-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0706-480.webp",
         "w": 480,
@@ -5236,12 +6081,17 @@
     "height": 5152,
     "takenAt": "2025-10-30T04:58:04",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoMAAgAA4BaJZACdADprf96AADxFZAnwa0rpElboUPjY+w5ZnCuvvI7CG6xQAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoMAAgAA4BaJZACdACRlZQAAPEWaxbctZaVwCRVaGDtiw+eDZIpjfyOwhusUAAA"
   },
   {
     "id": "20251030_Cairo_0713",
     "src": "/photos/20251030_Cairo_0713-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0713-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251030_Cairo_0713-480.webp",
         "w": 480,
@@ -5267,12 +6117,17 @@
     "height": 5152,
     "takenAt": "2025-10-30T05:10:23",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoMAAgAA4BaJYgCdADdsmb8YAD+QPCMzO36h+q1jfrjuHMuu2jxMOAGy27OC/mjyk19gvZvNAAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoMAAgAA4BaJYgCdADdsmc0mAD+QPCMzO36h+q1jfrjuHMuu2jxMN9GLjiKPK0qRqJAm1GfoAAAAA=="
   },
   {
     "id": "20251030_Cairo_0718",
     "src": "/photos/20251030_Cairo_0718-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0718-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251030_Cairo_0718-480.webp",
         "w": 320,
@@ -5298,12 +6153,17 @@
     "height": 7728,
     "takenAt": "2025-10-30T05:12:56",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOmUBbAAQBPuM9Mv+dm6AAA/jxEvcO0rdUZvqxU1KW+18GsuonxTLTXTc6gePO7BHoNYclvKki9mpW+Tk8lRYpp84eNkeGsLMTJzyKf5Ws2njAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JQBOl65AwQ7o6/ut3OYtAAP48RL3DtLOvKGc7ryYHHWUCDkUY9Xjj0Rx+veUwhG/sbhbk/VWNUB0o6GyaocPQzjgV3K/Q8mBEXIVMY8CqRlRiV0QUAAAA"
   },
   {
     "id": "20251030_Cairo_0728",
     "src": "/photos/20251030_Cairo_0728-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0728-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251030_Cairo_0728-480.webp",
         "w": 320,
@@ -5329,12 +6189,17 @@
     "height": 7728,
     "takenAt": "2025-10-30T05:23:57",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoMABIAPu1kqk4ppaQiMAgBMB2JYwC06B5QEYvAF4B3f+BIAPniy/hCkCc6aCCKHbqQvs4lGPNUWlTD31KfeX8r4V4kPXhhU2IWHRMlbgA="
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCw7BszHyClMJt+moRgAAD54wsN1tIE50ZSCKHUyWdx9Enz0mS0gRKP3FflGEbvHbOtwiQr6rutm4RC0zYA"
   },
   {
     "id": "20251030_Cairo_0729",
     "src": "/photos/20251030_Cairo_0729-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0729-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251030_Cairo_0729-480.webp",
         "w": 320,
@@ -5360,12 +6225,17 @@
     "height": 7728,
     "takenAt": "2025-10-30T05:30:21",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQAALzxKYAwKo51l5gAD+5Qgun/ZvA+ntPlEfvusDbK8d4BCi2FpF6k8oY/odfrIP4MtUrVkmfPwAdCeaHD8WiI3ENGUteStjixoN1XAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQAALzxKYAwSnGIX44AD+5Qgun/b9HI5u9ryUiq7jwVYqdoZBD2KJW16b+v3PENf39WksWxZNUJkrXaQEosIGMMYhns+9930QwZAA"
   },
   {
     "id": "20251030_Cairo_0737",
     "src": "/photos/20251030_Cairo_0737-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251030_Cairo_0737-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251030_Cairo_0737-480.webp",
         "w": 320,
@@ -5391,12 +6261,17 @@
     "height": 7728,
     "takenAt": "2025-10-30T05:41:36",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYgCdMoADY9x29LZ/pbWQAP7lbtygswecNMK/6q97MTyjbHamSdpqh4eZhsrpqX3URhid+BrdeOaWIGCravPv320ZaYD4uV/cqEFZFAA="
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYgCdMoADY9yyE4mTkFEzUAD+5W7coLMHnDTCwCFJjWXRG2O1Mk7TVDw7Y09Rcw6qSc35yQ6qGH+GuU7DQ+9XILVWHQqTMW1lJs/wAAA="
   },
   {
     "id": "20251031_Cairo_0553_2",
     "src": "/photos/20251031_Cairo_0553_2-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251031_Cairo_0553_2-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251031_Cairo_0553_2-480.webp",
         "w": 320,
@@ -5422,12 +6297,17 @@
     "height": 7547,
     "takenAt": "2025-10-31T05:52:59",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQAAXKKDTISn/TSNkCAA/qmwr3IRhopDOnEqu6yq7+kZOrbNyRXXlHRo5ZxhqFmeDZ0tyScicf6AXN+EVqoi8/gAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZQAAXKKFyyv4bYDYAP6psK9yEYaKQzpxKrusqu/pGTq2zUc4aUdGjlnBvqjjJv9LcknInH+gqCezmasAgZa3jyoAAA=="
   },
   {
     "id": "20251031_Cairo_0573",
     "src": "/photos/20251031_Cairo_0573-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251031_Cairo_0573-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251031_Cairo_0573-480.webp",
         "w": 320,
@@ -5453,12 +6333,17 @@
     "height": 7728,
     "takenAt": "2025-10-31T06:12:38",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZWZARgATmgAA/utVXcRrOM7swBEeztQ7rSIQQtRJU1W7XPkv7MSpdm9iBJAj0AA="
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQCdACz+lMAAAP7rVV3Eazk/1wNG6ND+Y5EIPi5QtRJSsJX8yYo98FeeAAAA"
   },
   {
     "id": "20251031_Cairo_0578",
     "src": "/photos/20251031_Cairo_0578-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251031_Cairo_0578-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251031_Cairo_0578-480.webp",
         "w": 320,
@@ -5484,12 +6369,17 @@
     "height": 7728,
     "takenAt": "2025-10-31T06:17:52",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBACdASoMABIAPu1iqU2ppaQiMAgBMB2JYwCdMoACtBsr1scFACtWDAD+7MQ2Fz7grm3cdIjvmfCV01BynsnA2MUNULwuMedpCDT7kgsEIMAA"
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JYwCw7BufYRzdXt2ubSwAAP7sxDYXPuCuZrB1u6yZGXTZ/WH3bSNga9CuUicoL2PL7qfl4r33ih56rVIAAA=="
   },
   {
     "id": "20251110_0831",
     "src": "/photos/20251110_0831-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251110_0831-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251110_0831-480.webp",
         "w": 480,
@@ -5515,12 +6405,17 @@
     "height": 5152,
     "takenAt": "2025-11-10T16:06:44",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAgAA4BaJZwAD4kNWWePTZAA/rgJkrC8ERkGeBT9WMF5HoMIM/5MkQHahTKQ7+sTGLfy4nU2fMObzhAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACQAQCdASoMAAgAA4BaJZwAAlKJdEAA/rgJskI4a4o5DAKPvMAEhyenEFTspl9zGrg4xKN+x3WJnDz/HlUScOfn5hAAAA=="
   },
   {
     "id": "20251110_0839",
     "src": "/photos/20251110_0839-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251110_0839-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251110_0839-480.webp",
         "w": 480,
@@ -5546,12 +6441,17 @@
     "height": 5152,
     "takenAt": "2025-11-10T16:18:47",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoMAAgAA4BaJaQAAldRZRLQAPuIKTSdsg/WVDG+3oGwwL8h9OWhgYZVfBBcRCP+nVxuNBocgyPLTPOx5BiYKL+QAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAgAA4BaJaQAAsbxAr4HAAD7iCk0nbIP1lQxvt6BxdJ8yVblLBlE1YwOTBOa41i4nP/CgUCq2PLSS0VGgAAA"
   },
   {
     "id": "20251110_0844",
     "src": "/photos/20251110_0844-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251110_0844-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251110_0844-480.webp",
         "w": 320,
@@ -5577,12 +6477,17 @@
     "height": 7728,
     "takenAt": "2025-11-10T16:29:23",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAAYXgXg1L4biAA/utoF1+RVCYMhwbsTZcQmz5fZF7LnDUkB2NIhFmfNwuYxEO4h9mx58NNOdDvQgAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAAYYjH7cJ5x9WAAP7raBdfkVQl5X36RTtLOb0wBAuSoPMJODBlmPRWW//M8RW8zdRbZoOIpqVBpQgAAA=="
   },
   {
     "id": "20251110_0845",
     "src": "/photos/20251110_0845-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251110_0845-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251110_0845-480.webp",
         "w": 320,
@@ -5608,12 +6513,17 @@
     "height": 7728,
     "takenAt": "2025-11-10T16:29:36",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAAXpuLngpGjAAA/mFvNrDTKLhNQ5iHDXxAS84IF45/0sWAObmdpziKrsEHSdWTAck4/W9rrWW8yhHaQbfBNKEAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAAXpuLNYCQwAD+YW82sNMouE1DmIcNfEBLzggXjn/SxYA5uZ2nOIquwQdLTYnX7D4n7rYSSCDiqpeAMQbfAb0IAA=="
   },
   {
     "id": "20251110_0847",
     "src": "/photos/20251110_0847-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251110_0847-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/20251110_0847-480.webp",
         "w": 320,
@@ -5639,12 +6549,17 @@
     "height": 7728,
     "takenAt": "2025-11-10T16:30:11",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZwAAXu0lZ9mYUDXAAP3wfVyH3kSKg6+JOHLYdnPhnofmFAcyfWP6TcIHc5OutBKX1DV89K5fwqRMHRnoDKGPsvB6NSqNRX/QANpSC8B/6VjXE5/sNYdvVsnzeiswAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwAAXu0fOn584NmxAAD98H1ch95EioOviThy2HZz4Ux35hQHMn1j+k3CB1U5la9WDfvQ92CIyzzcyQjsG3lGB9n3eWpLKvA7nl9dEc2+A/+Mxx1ul5bU7f2BJi0BIAA="
   },
   {
     "id": "20251110_0852",
     "src": "/photos/20251110_0852-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/20251110_0852-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/20251110_0852-480.webp",
         "w": 480,
@@ -5677,6 +6592,11 @@
     "src": "/photos/DSCF2729-2400.webp",
     "srcset": [
       {
+        "src": "/photos/DSCF2729-240.webp",
+        "w": 240,
+        "h": 160
+      },
+      {
         "src": "/photos/DSCF2729-480.webp",
         "w": 480,
         "h": 320
@@ -5701,12 +6621,17 @@
     "height": 5152,
     "takenAt": "2025-11-11T10:12:24",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoMAAgAA4BaJQBOgCPz6X8jC4AA8qd87v4tJdXjQeG4DtqPDyxkDh8maE/icoyAPl3KczXb86qSg+wvAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAgAA4BaJQBOgCPz6X5gUAAA8qd87v4tJdXjQeGumFUZ6EBcgcPm+/9PZ+asfQSEnT0FnR2EdqKhywAAAA=="
   },
   {
     "id": "DSCF2734",
     "src": "/photos/DSCF2734-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2734-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2734-480.webp",
         "w": 480,
@@ -5732,12 +6657,17 @@
     "height": 5152,
     "takenAt": "2025-11-11T16:26:28",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAAgAA4BaJaQAArJnoIi5TAAAzjrV8Gu3JJ0b0s9e1mTROzv0hgCn6+6wS6QalVjmtMq2G16chz6/xzsBLov5AAAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoMAAgAA4BaJaQAAsRDw6b/RuwAAM461fBrtySdDjCg55o9kMZeSbU0sNTFRS4jLK+N75TBXlVKRsN4Ak3zfJXVp9z7nAAA"
   },
   {
     "id": "DSCF2790",
     "src": "/photos/DSCF2790-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2790-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2790-480.webp",
         "w": 480,
@@ -5763,12 +6693,17 @@
     "height": 5152,
     "takenAt": "2025-11-15T14:10:00",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoMAAgAA4BaJbACdADbYv9rSAD+QQo/cdEX/k3qFPtYRmwEx8OpV54XTYsouq7VJNbOhNkF6Hwf+5P1kHmuNwaDYdVjAAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoMAAgAA4BaJbACdAD0pmgK2hwAAP5JuaCKG7j+BgbyMnxMyF/7DPngsRs9jME6to+Cz8zobaJaRD6vA3amRazaGsAAAA=="
   },
   {
     "id": "DSCF2818",
     "src": "/photos/DSCF2818-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2818-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2818-480.webp",
         "w": 480,
@@ -5794,12 +6729,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T12:53:03",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoMAAgAA4BaJQBOgCB/HxIRkYAA/tDVNtWYig4x3elRoIAFfn1gfB+rig+NvLQVgAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoMAAgAA4BaJQBOgCB/ItHDcUAA/tDVNtWYihY2AaPscXEjgD/al1yfY3X4Ce4aL5v88AAA"
   },
   {
     "id": "DSCF2832",
     "src": "/photos/DSCF2832-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2832-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF2832-480.webp",
         "w": 320,
@@ -5825,12 +6765,17 @@
     "height": 7728,
     "takenAt": "2025-11-20T13:17:25",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZQCsABrhz3zdKbX6aAAA/tfSTBT3xa4wNDkzDUAiTxz5Vdj5DTqs3dye15xCT1pCcAziJfZIA9q+ZWKk5X9Yv2Az211knDn/vyD9lIQltd8cMLLQhhxz6RB4AA=="
+    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZQCsMoACoLnkmCB8G1Mp44AA/tfSTBT3xa4wNDkzDUAiTxz5Vdiz9JazL+2Y6qg8ISeZhuaAaVoyoeOhIq+fPerahv47ev35IG/mwXCMSnWa8oQGfHvgAAA="
   },
   {
     "id": "DSCF2844",
     "src": "/photos/DSCF2844-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2844-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2844-480.webp",
         "w": 480,
@@ -5856,12 +6801,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T13:33:49",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoMAAgAA4BaJaQAAleMgc3gAPjk7GxBo95U1KTwVQVqrlcBoRHxK24gQfAVS57StHoDQAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoMAAgAA4BaJaQAAleMgc3gAPjk7GyH6dh3alLSQMkE2DzevEAUaViqLjmKQ2+GSysQT8AAAAA="
   },
   {
     "id": "DSCF2850",
     "src": "/photos/DSCF2850-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2850-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2850-480.webp",
         "w": 480,
@@ -5887,12 +6837,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T13:35:56",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoMAAgAA4BaJaQAAi7cCPAA/qVv/KK4J0jHrsaUoyoU0CNfGG0Zn/oAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoMAAgAA4BaJaQAAsRDXEOyAAD+n5Js0Z+EdTHrSpF/WihOufWQVfKAAAA="
   },
   {
     "id": "DSCF2854",
     "src": "/photos/DSCF2854-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2854-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2854-480.webp",
         "w": 480,
@@ -5918,12 +6873,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T13:36:21",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACQAQCdASoMAAgAA4BaJaQAApkGTAAA/s7l5M9CUANus8oxi30n5xgAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAAAwAQCdASoMAAgAA4BaJaQAA3AA/urz0YkRnD8H1IbEtAyfgIIAAA=="
   },
   {
     "id": "DSCF2868",
     "src": "/photos/DSCF2868-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2868-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2868-480.webp",
         "w": 480,
@@ -5949,12 +6909,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T17:12:55",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAgAA4BaJQBdgBtqjhQcgADic21nbqOVVhhBwPzgOsPzJTYDSmOobh2t9EANzmuiScdpMCsgFQ/aqx9DAAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoMAAgAA4BaJQBdgBuQEsIFAADic21nbqOVVhhBwPzgzbtw42vrSP3nXsTwXogBuYWcjy1MruZxY4KgRvHAAA=="
   },
   {
     "id": "DSCF2873",
     "src": "/photos/DSCF2873-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2873-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2873-480.webp",
         "w": 480,
@@ -5980,12 +6945,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T17:18:16",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoMAAgAA4BaJZwAAqsPSRSx/AAA/rfjZa+zsxT/mMHGLr2yd1sUSe6cu4EtNMucaheEg2cW2cddY8KXygyy/LA1KN4QuKXeQ4QgAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoMAAgAA4BaJZwAAqsPSRSyvQAA/rfjZa+zsxT/mMHGLr2yd1sUSe6cu4EtNMucaheEg2cW2cddY8KXygyy/LA1KN4QuKXePAAAAA=="
   },
   {
     "id": "DSCF2910",
     "src": "/photos/DSCF2910-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2910-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2910-480.webp",
         "w": 480,
@@ -6011,12 +6981,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T18:36:55",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoMAAgAA4BaJbACdAaWk8kxQ9xSsAAA/u0emhfiZlfGxT3zOZPeiBX3P1xL8xBGf5qICyJl299jKIsae/JhTyog0DZ6tHv4qNXpp09DaXl4f58LngAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoMAAgAA4BaJbACdAaWkxasiOKVgAD+7R6aF+JrPNqK1gqFkdfwSNKO9JNoWdctP5owgiJP77GURY09+TCnlRBiKMFR/ij2mFojm6iIJOEtL9u4AAA="
   },
   {
     "id": "DSCF2928",
     "src": "/photos/DSCF2928-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2928-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2928-480.webp",
         "w": 480,
@@ -6042,12 +7017,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T18:47:30",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoMAAgAA4BaJZwAAlpCD1f7AAD++RhuSK1Yt+sCNyRt6FtC/a14Yui+GjPk75Ee/TwAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoMAAgAA4BaJZwAAlpCD1f7AAD++RhuSK1Yt+sCNyRt6FtC/a14Yui+Gnhzt4J/v08AAA=="
   },
   {
     "id": "DSCF2935",
     "src": "/photos/DSCF2935-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2935-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF2935-480.webp",
         "w": 320,
@@ -6073,12 +7053,17 @@
     "height": 7728,
     "takenAt": "2025-11-20T20:53:36",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZQCdACHhMyvB/bkMlV6WgAD+7pEDo2sIQbLM/9qgfT6jVAS5SeKsEAkckzm9Pk7XR5nH1t9xDl/7yfzzet7uRUAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoMABIAPu1iqk2ppaQiMAgBMB2JZQCdACHhLNJgsaDM6iAA/u6RA6NrCEGyxaAN9SpjdXgfFuwduV5iNY5JnN6fJ2ujzOM08d2FoGNlQyHLb1G0gAA="
   },
   {
     "id": "DSCF2938",
     "src": "/photos/DSCF2938-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2938-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF2938-480.webp",
         "w": 320,
@@ -6104,12 +7089,17 @@
     "height": 7728,
     "takenAt": "2025-11-20T20:56:05",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAABQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAAW+sqs/MgAAD+9BsRfR5Q7DB0DItwBOsaKJU0chqX8Gg027g97obLiXgAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JaQAAW+sqnQgA/vQbEX0eUOwwdAyLcATrGiiVHqnaOX+JVqp/qmhxHDyAAA=="
   },
   {
     "id": "DSCF2939",
     "src": "/photos/DSCF2939-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2939-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2939-480.webp",
         "w": 480,
@@ -6135,12 +7125,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T20:57:15",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoMAAgAA4BaJZwAAq4G/JzRBAD+9flpIqZ+7S4EdbfewxE4YNr/wBQ5MdDTu9Aa/72J5cS+yXpgRz4eTzjUrKCgAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAAgAA4BaJZwAAq39W+eJDQAA/vX5aSKmfu0uBHW33sMROGDa/8AUOTHQ07vQGv79tgrrB64Yc1Bk3zEvLhX+AgAAAA=="
   },
   {
     "id": "DSCF2946",
     "src": "/photos/DSCF2946-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2946-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF2946-480.webp",
         "w": 320,
@@ -6166,12 +7161,17 @@
     "height": 7728,
     "takenAt": "2025-11-20T21:05:24",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZgCdIDZC+P3CQiPxlZEgAP7ypR4N3CDQDDiDL887G1KW21Ft3irUZjV6nf0X9iRGtFPA9IvjyOBmRGwAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZgCdIDZC+P3CQiYYAAD+8qUeDdwg0BDdaWfHoLFgUa7TXlmiiEynSTfSg29uE3ht1OLl8oUVU/80H3AZoxYggAA="
   },
   {
     "id": "DSCF2958",
     "src": "/photos/DSCF2958-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2958-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2958-480.webp",
         "w": 480,
@@ -6197,12 +7197,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T21:10:04",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoMAAgAA4BaJZQC7AEOeD74wAD++RR0hz8pM4yJ2VFlNefEHEv8CSda5BFWLbkNKaL4GFPvfmWPri2uYAA="
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoMAAgAA4BaJZQC7ADYuYfAAP75GHjxHPymbEBfd4loAlH5h1eO/2NPHIGdUm7WU6CBwqurqO8y2ga0AAA="
   },
   {
     "id": "DSCF2960",
     "src": "/photos/DSCF2960-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2960-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2960-480.webp",
         "w": 480,
@@ -6228,12 +7233,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T21:11:23",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAAgAA4BaJZQCw7EQ5V8YjwAA/vfIolyYqM4CDSoVXFNEHVdFnG19QFmLknujh5HUNgyGBBn8frMoVlOGi1grbDQAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMAAgAA4BaJZQCw7EQ5V8Y78AA/vfInRUCVLsHI4jnHdECb4azcYS69emntZRKCgWnoE2XJ+plBu23mFUrE/SgAAA="
   },
   {
     "id": "DSCF2965",
     "src": "/photos/DSCF2965-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2965-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF2965-480.webp",
         "w": 320,
@@ -6259,12 +7269,17 @@
     "height": 7728,
     "takenAt": "2025-11-20T21:14:34",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAACQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZACdMoRwFf/gQFjC6EjhfuzhuWAA/vK1aHcTfs4FGe2CyP1kZcGskwinLJvNk+FvHlzq505IBPw0/HdeS4ZXCPB0A4GHIqBbGeA1SW41OSOcbzK6RuvxQ6k2QXQtXSdiln2gAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JZACdMoRwFf/gQFjC6ESjTUJzIAD+8rVodxN+zgUZ7YLI/WRlwayTCKcsm82T4W8eXOrnTkgE+5+it84Ml+dz7eVL9dkh3pnLPrcy8yIFTAdEhX07GJ7RbjZhME9UDIUAAA=="
   },
   {
     "id": "DSCF2969",
     "src": "/photos/DSCF2969-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2969-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2969-480.webp",
         "w": 480,
@@ -6290,12 +7305,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T21:18:43",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoMAAgAA4BaJYgCdAEPDN0XBjAA/vhPCDGau++ppssRy6vF2/iGFiHcYiY+aR1JPZ6OkMphRaAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoMAAgAA4BaJYgCdAEPDN0ZAJAA/vhO+yqg7MoFx0Ry6opkvGrsH6nsgZI6kntt2O5FbTw7gAA="
   },
   {
     "id": "DSCF2972",
     "src": "/photos/DSCF2972-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2972-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF2972-480.webp",
         "w": 320,
@@ -6321,12 +7341,17 @@
     "height": 7728,
     "takenAt": "2025-11-20T22:22:09",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaACw7BuyfseMrm3CNAAA/uybG60ONpCpbrK7PNoP7qmoVGJrspwdqPgJHpznah6LKaok87An3AfQZLK5XBhSknUBxkazAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaACw7BuliIkAE7gAAAD+7JsbrQ42kKlusrs8uaE0u4WNbXKQU8greey+lWm8D4sYY7QMVGJIi60Fbca4OB9/vhTsHkIWYAA="
   },
   {
     "id": "DSCF2979",
     "src": "/photos/DSCF2979-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2979-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2979-480.webp",
         "w": 480,
@@ -6352,12 +7377,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T23:14:27",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAwAgCdASoMAAgAA4BaJYwCdAEUWfrSnF2DAAD+94DRit9BkYz0pbIk0uScvseSwfVNrYuQAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoMAAgAA4BaJYwCdAEUVCUKRdAA/veA0YrfQZGM9KZn2EsCnmpPYJeqEsd5H+/5n5uo7QAA"
   },
   {
     "id": "DSCF2981",
     "src": "/photos/DSCF2981-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2981-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2981-480.webp",
         "w": 480,
@@ -6383,12 +7413,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T23:29:21",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAAgAA4BaJbACdADcEZQSeAAA/uzJA3fXxs9Jvaxd3IpvzMlMZBaYaGKa5xVV+nOjBXekjhpq1eZFOGL7kzinqbcAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoMAAgAA4BaJbACdADcEZPuYAD+7MkDd9fGz0m9rF3cim/MyTEzKVrt1yqq3YWBgWIIQTpt6ePsnACBtaFK4p68iAA="
   },
   {
     "id": "DSCF2985",
     "src": "/photos/DSCF2985-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2985-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF2985-480.webp",
         "w": 480,
@@ -6414,12 +7449,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T23:32:57",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoMAAgAA4BaJYwCdAD0kVocDmAA/vkYbWfP78byqlQxH5QMa404vWhOXFT54Sp0AAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoMAAgAA4BaJYwCdAEPApi+FDgA/vkYOv8NCImA4+xB5XilGUf2+1AwcmUgslgA"
   },
   {
     "id": "DSCF2990",
     "src": "/photos/DSCF2990-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF2990-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF2990-480.webp",
         "w": 320,
@@ -6445,12 +7485,17 @@
     "height": 7728,
     "takenAt": "2025-11-20T23:34:29",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOmUABV5tILZ2sjiKAA/u6hjC4JSjAAHzZ9SCNc0ISkCe6x25bMyADq4Y/39/JFFkjYZILU7ElDTsuDS/3b9+uZPstrOpHrsZML4AA="
+    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOmUABVCiuebK911wYAAP7uoYwuCUowAB82fUhWrixhHEBMhX/XfB9wLTse/91vHBCrrQP3wu8+MT+TGIx4bPQDHox4kWeZAshoKaAAAA=="
   },
   {
     "id": "DSCF3003",
     "src": "/photos/DSCF3003-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF3003-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF3003-480.webp",
         "w": 480,
@@ -6476,12 +7521,17 @@
     "height": 5152,
     "takenAt": "2025-11-20T23:41:03",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAABQAQCdASoMAAgAA4BaJQBOgCgAAP7zQ/QAwYdY16uC9LI47Z2uPBHPARXy61rSygj5QP/U2brIAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACQAQCdASoMAAgAA4BaJQBOgBBG9AAA/vEEVG/n6FfvCmi2oAKlnn2EFih38/alhDIaTlm6yAA="
   },
   {
     "id": "DSCF3251",
     "src": "/photos/DSCF3251-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF3251-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF3251-480.webp",
         "w": 320,
@@ -6507,12 +7557,17 @@
     "height": 7728,
     "takenAt": "2025-12-08T19:38:11",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdACHT9dSg/zpEIHAAAP7ynfy0ZlLQc+vAMyJWncLXgErTVUH+33L89nti7n23JIRYDa/UZQLn7HlsYkBYXLLdFKfyJXWO1GIwAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdACHT9dShW+WYBQAA/vKd/LRmUtBz68AzIladwteAStNVQf7fcvz2e2LufbckhFgNr9RlAufIoGdMVF7iUZmU9TluKmcgAA=="
   },
   {
     "id": "DSCF3500",
     "src": "/photos/DSCF3500-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF3500-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF3500-480.webp",
         "w": 320,
@@ -6538,12 +7593,17 @@
     "height": 7728,
     "takenAt": "2026-01-10T00:12:21",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAAW+/7fpq0fA/NCAAA/vQl3fDL7QjI7k7WsWlhMY4LKamNXy3Jqdx1/9F3ixN1dRa/HWX8AAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAAW+/8DjPRQ6jtmoAA/vQl3fDL7QjI7JxkBD+mD9KXn3/S+19Xq5pVhP9hMi7RaJRa8AAAAA=="
   },
   {
     "id": "DSCF3517",
     "src": "/photos/DSCF3517-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF3517-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF3517-480.webp",
         "w": 480,
@@ -6569,12 +7629,17 @@
     "height": 5152,
     "takenAt": "2026-01-17T15:21:03",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoMAAgAA4BaJZQCdADZkQoAAP6l4OT6T1FksBhV7yJhh6s0zW7WuK9qRiIWFiefqH1Ef/6OAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoMAAgAA4BaJZQCdADdczFCy3AA/qXg5Ptgkds/RLQiQ0n2ojqcX6HkAqXveG0Dg/bdImcloAAAAA=="
   },
   {
     "id": "DSCF3522",
     "src": "/photos/DSCF3522-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF3522-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF3522-480.webp",
         "w": 320,
@@ -6600,12 +7665,17 @@
     "height": 7728,
     "takenAt": "2026-01-17T15:28:36",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwAAUrlOhdQAAP7phnbaYDmDnnVgNjr06xl4zrOoiNnfsowAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JaQAAUrlOhdQAAP7phnbaYDmDnnVgNjr06wrepHlWjZ37KMAAAA=="
   },
   {
     "id": "DSCF3556",
     "src": "/photos/DSCF3556-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF3556-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF3556-480.webp",
         "w": 480,
@@ -6631,12 +7701,17 @@
     "height": 5152,
     "takenAt": "2026-01-17T15:53:01",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoMAAgAA4BaJZQC7ADzeGswAPoNjnK9zRVdx+RuYmfwMtT4AAA="
+    "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoMAAgAA4BaJZQC7ADyfXJAAPoNjnK9zRVdx+RuYVwQYJlg+AA="
   },
   {
     "id": "DSCF3565",
     "src": "/photos/DSCF3565-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF3565-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF3565-480.webp",
         "w": 480,
@@ -6662,12 +7737,17 @@
     "height": 5152,
     "takenAt": "2026-01-23T17:20:08",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoMAAgAA4BaJYgCdAD0Yx1gZYAA/vD+DFRWLpog/Q8I/VPw5vqkpyMoJ3FK9wX72hadsAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoMAAgAA4BaJYgCdADyfFjoAP7uxitrOOVQecEIjvHHE1dJChXpy6cUw2qNUSAzfpDtAAAA"
   },
   {
     "id": "DSCF3638",
     "src": "/photos/DSCF3638-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF3638-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF3638-480.webp",
         "w": 480,
@@ -6693,12 +7773,17 @@
     "height": 5152,
     "takenAt": "2026-01-28T23:39:53",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoMAAgAA4BaJbACdAD7KCL6BIAA/tDVWyOww33qGCXcYHC9AflS586vZBpjE5628R0f/vmy2jx33yRphvQSdcAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAAgAA4BaJbACdAD7JvmCoAAA/tDVWyOww33qGCXcYHC9AflS586vZCIaEkGLNUG5RCQBDcVqOEptbKWtCtTqqAAAAA=="
   },
   {
     "id": "DSCF3718",
     "src": "/photos/DSCF3718-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF3718-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF3718-480.webp",
         "w": 320,
@@ -6724,12 +7809,17 @@
     "height": 7728,
     "takenAt": "2026-02-14T13:21:49",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JagCdMoAlqBdKobyHeBOogADMEiF8qUlqn7ZXNzvv7SCCOv/+2yz0qIaJu2WRFLcOIc9c7iLtKGtPLceroIlTBZLgdudjaSNFUt7h+j9wtnyrv7kZ7af0oc3beXM9fO0pvoAA"
+    "blurDataURL": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JagCdMoR3Ac/gn3jwB2HkssAAzBXXpWhVQlw0O4IyU+dKq9uaLWyz0s7Jgm1xUNWV3ZV0IMjnx5M+Bkqs+18bHbcEZSF8kljXGfTh+j9wtnyrv7jGr/o6CrBF6ZU9xHIAAA=="
   },
   {
     "id": "DSCF3811",
     "src": "/photos/DSCF3811-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF3811-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF3811-480.webp",
         "w": 320,
@@ -6755,12 +7845,17 @@
     "height": 7728,
     "takenAt": "2026-02-17T19:35:18",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYgCdMoADg/4FSRWkQk6/kwAAzBzGPTPv9x4A3KoZ11RsYusdmP6yga+n2qVX8fPFYPfLkXYTUXXgn4nKMMhU4XYK4rfffw7z0KfWz6Q7p+qAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZACdMoAC/FjIeahNGAAAzBzF99MdUZ8OH+b+K4+mUMDC0uZIMdLLFqSerjDBGZGscdCiV+rsX9J4PLC1+i5piRUbg2lzYKFspVHmoSLsI0wAAAA="
   },
   {
     "id": "DSCF3814",
     "src": "/photos/DSCF3814-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF3814-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF3814-480.webp",
         "w": 480,
@@ -6786,12 +7881,17 @@
     "height": 5152,
     "takenAt": "2026-02-17T19:35:56",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoMAAgAA4BaJagCdAEQ0uUv3JgAzabSAiTsKrm6nWViW2Fdm0Bm0NkjZrUJmysJgi3Lofv3ix+AqUo90n6G4AAA"
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAgAA4BaJagCdAYr7WKe3y4AAOGdPyQP6vQdGTczNzgmcd51ELxieaq3sVD48BJX14ghcbPZOsjNnl3SfobgAAA="
   },
   {
     "id": "DSCF5558",
     "src": "/photos/DSCF5558-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5558-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF5558-480.webp",
         "w": 320,
@@ -6817,12 +7917,17 @@
     "height": 7728,
     "takenAt": "2026-08-18T19:35:44",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABwAwCdASoMABIAPu1iqk4ppaQiMAgBMB2JZwAAPX7hY4TgnQAA/pny+v6W/ppi4ayou8T6IxVfRsjySjrm5DnykWSG0zrvpXONTEnTJH571K0KAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABwAwCdASoMABIAPu1kqU4ppaOiMAgBMB2JaQAAPX7hY4TcRAAA/pny+v6W/ppi4ayou8WPMTVfRsjyfvyT1k6uMf/WGwKwlc41Lq2m+cfh9vfCxcgAAA=="
   },
   {
     "id": "DSCF5563",
     "src": "/photos/DSCF5563-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5563-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF5563-480.webp",
         "w": 320,
@@ -6848,12 +7953,17 @@
     "height": 7728,
     "takenAt": "2026-08-18T21:05:43",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JbACdAB5+Nw/jpi86nn75AAD+2p5HDt9Kul7AgP+m9lk6L6yBXtpEjyPR8oCyTD5dduaJ4i8r0DCDGbhTH+3hq7x9HzbOd1OA0pkgL4NcuaoQAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JbACdAB5+Nw/jpi547EFEAP7ankcO30q6XsCA/6b2WTovrIFe2kSPI9HygLJMPl125rsnq9IIHWZMQE37GZ6b/RpkVAbbP+7As7y7qD4lRy4AAAA="
   },
   {
     "id": "DSCF5583",
     "src": "/photos/DSCF5583-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5583-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF5583-480.webp",
         "w": 480,
@@ -6879,12 +7989,17 @@
     "height": 5152,
     "takenAt": "2026-08-18T21:25:20",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoMAAgAA4BaJYwCdADPn0h3XUAA+2irXExDgkR7oOak+i2TaERb1iQA"
+    "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoMAAgAA4BaJYwCdADPYGW1IAD7aK67gYxmiBxsBy8iB1H9cnAN2AAA"
   },
   {
     "id": "DSCF5593",
     "src": "/photos/DSCF5593-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5593-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF5593-480.webp",
         "w": 480,
@@ -6917,6 +8032,11 @@
     "src": "/photos/DSCF5609-2400.webp",
     "srcset": [
       {
+        "src": "/photos/DSCF5609-240.webp",
+        "w": 240,
+        "h": 160
+      },
+      {
         "src": "/photos/DSCF5609-480.webp",
         "w": 480,
         "h": 320
@@ -6941,12 +8061,17 @@
     "height": 5152,
     "takenAt": "2026-08-18T21:28:45",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoMAAgAA4BaJZQCdAD1MnaAAP6oZgfiuNAX78F3KZwRINiCDmTAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADwAQCdASoMAAgAA4BaJZQCdAD1dvH6BwAA/qhmBzWVCRe5WD2Q7iXwlAAAAA=="
   },
   {
     "id": "DSCF5625",
     "src": "/photos/DSCF5625-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5625-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF5625-480.webp",
         "w": 320,
@@ -6972,12 +8097,17 @@
     "height": 7728,
     "takenAt": "2026-08-18T21:30:44",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoMABIAPu1kqU2ppaOiMAgBMB2JZQAASfQYEyEr3+FH5cAAykFLkqcXP7oLun/aow2HZcrsGZQXFGmXRZONOlbBUnrw9Lot++oB09t6728j3X3UBZ6I5Pp5sf3l6J8s16K7/AhA9rJC/5DH+gAAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQBACdASoMABIAPu1iqU2ppaQiMAgBMB2JZQCdACK3eVRmA3AH+9dJYADKQUuYwR1c7h07LBw2zUjd5D9Tx+WaqaxflEdAyjA9Lot++oB09t6728ZdvNE7mWOWw6fP9rPsQTcCPZZNVTo6xGZaBt7gAAA="
   },
   {
     "id": "DSCF5637",
     "src": "/photos/DSCF5637-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5637-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF5637-480.webp",
         "w": 320,
@@ -7003,12 +8133,17 @@
     "height": 7728,
     "takenAt": "2026-08-18T21:33:22",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoMABIAPu1iqk2ppaQiMAgBMB2JYwCdMoADNrloL8EAAN1SxEWI5cbh26MaeoYYQe1Pev0aNpRDi7IYkCMd2hwL5GGVkOF7MOyAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JYwCdACFZzRFP+bssAN1SuFEqV95FedKnA1QQrV6ePttll0nTTHyRVNsnlwaas/BqGZfuBoTMOAAA"
   },
   {
     "id": "DSCF5641",
     "src": "/photos/DSCF5641-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5641-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF5641-480.webp",
         "w": 320,
@@ -7034,12 +8169,17 @@
     "height": 7728,
     "takenAt": "2026-08-18T21:33:51",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JYwCdABsWKvYiMrAAyrSHEpVk/lhdpxDxnjfOMbgDVhYcbKid7V2zB9yrKCS9iPMZ+TcWQuMSi4thle80AAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAwCdASoMABIAPu1iqk2ppaQiMAgBMB2JQBOgA2LFXsRGVgAAyrSHEpVk/lhdpxDxnjfOMbgDVhYcbKid7V2zB9yrKCS9iwpVv6TVufCUtCtaShzcAAAA"
   },
   {
     "id": "DSCF5650",
     "src": "/photos/DSCF5650-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5650-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF5650-480.webp",
         "w": 320,
@@ -7065,12 +8205,17 @@
     "height": 7728,
     "takenAt": "2026-08-18T21:35:19",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwC7ACBznCeuFpV5AAD+Opd9PCJy1kz/OBkwK7WKyndQHGrYbJRzrT4f+00iFdgzVvpHuOG7P6gA"
+    "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwC7ABUxtmaPPyxwAP46l34d0P58fBfPoABsKgUbSmqrAi/Tl4C9Jwyd3dXmf3YarwbtKAaQrBJEgAA="
   },
   {
     "id": "DSCF5661",
     "src": "/photos/DSCF5661-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5661-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF5661-480.webp",
         "w": 320,
@@ -7096,12 +8241,17 @@
     "height": 7728,
     "takenAt": "2026-08-18T21:37:05",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZQCdACHf6qBMnzVoIAD+uPRGbkKGEE1Wz1o6sG+YuaJHPsMuIhkbvGOTFRUAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZQCdACHf6qpPGSaOwAD+uPRGbkJ+96La4D4Hab6nm3kV6+Ojmr5c+Y7+WCwIAAA="
   },
   {
     "id": "DSCF5689",
     "src": "/photos/DSCF5689-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5689-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF5689-480.webp",
         "w": 320,
@@ -7127,12 +8277,17 @@
     "height": 7728,
     "takenAt": "2026-08-18T21:42:45",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JZwDE2BuVE+hi530rtAD9R68Ia09wJzTEsbXKT8UMpD5h4w9RjZzNihPxud2P0jk4/1uIyBKAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACQAwCdASoMABIAPu1iqU2ppaQiMAgBMB2JZwAASl2WF3y0UKyAAP1HrwhrT3AnNMSxtcpPxQykPmHjD1GNnM2Gj0DW1rOEdOuobiyH6AA="
   },
   {
     "id": "DSCF5702",
     "src": "/photos/DSCF5702-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5702-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF5702-480.webp",
         "w": 480,
@@ -7158,12 +8313,17 @@
     "height": 5152,
     "takenAt": "2026-08-18T21:52:53",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMAAgAA4BaJbACdAED9qNJttgA/ulTWHGeu3pugxIS10KMXsvFNHv70vS/AncsL6f4cTT7JA8NNjlMY8yYOwuApusgUAAA"
+    "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoMAAgAA4BaJbACdAEDHt+Y2sAA/umpVKniHBUJn+5zD6GHr4LI3jGHoIsz1kMtdLQ4UBOD4HdYG0aLHKYx5kwdgQQTXujQAAA="
   },
   {
     "id": "DSCF5708",
     "src": "/photos/DSCF5708-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5708-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF5708-480.webp",
         "w": 480,
@@ -7189,12 +8349,17 @@
     "height": 5152,
     "takenAt": "2026-08-18T21:54:43",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoMAAgAA4BaJZwAD4rweGxUqgAA/vfVxtnYREKFXc96y5bEM65TFl7P0Scrf2eScb8kzC8AAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoMAAgAA4BaJaQAD4rweGxUVwAA/vfcloEte8slHH7VCLlC46cWMNe3j37LCpgGfXpK2WEAAAA="
   },
   {
     "id": "DSCF5711",
     "src": "/photos/DSCF5711-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5711-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF5711-480.webp",
         "w": 320,
@@ -7220,12 +8385,17 @@
     "height": 7728,
     "takenAt": "2026-08-18T21:55:09",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOmUABpymhBa9dSlwAA/uvtaN5zcexJhzWCkowsaCxMZgEU1ggGD5HzA890ZIOjpDtFtuz/scj69SeZLj3OonJF0kAA"
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOmUABfINqM/FkAiAAA/uwLOBe0tQCMXWo6gqiQ6TgHuDl5/a4udz/0zlVGZjNyAOtg8czduE0BPqnVy7D/A+siRfmWQAA="
   },
   {
     "id": "DSCF5726",
     "src": "/photos/DSCF5726-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5726-240.webp",
+        "w": 240,
+        "h": 160
+      },
       {
         "src": "/photos/DSCF5726-480.webp",
         "w": 480,
@@ -7258,6 +8428,11 @@
     "src": "/photos/DSCF5737-2400.webp",
     "srcset": [
       {
+        "src": "/photos/DSCF5737-240.webp",
+        "w": 160,
+        "h": 240
+      },
+      {
         "src": "/photos/DSCF5737-480.webp",
         "w": 320,
         "h": 480
@@ -7282,12 +8457,17 @@
     "height": 7728,
     "takenAt": "2026-08-18T22:00:11",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOgA3KKlrJO8oHv3PAA/I9dy/t+eL3jkehBt3sAz+e7fCvn1A+dGdUNHPVJrJQ1Fn+I30w65q+YOCC1kzyoAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOgBCyc33pnY0rIwAD8j13L+8UncuDh8XYY6XLScX/nCfeBZedCrkLquUShrT0YI30w65q+HmkOPa35NAAA"
   },
   {
     "id": "DSCF5967",
     "src": "/photos/DSCF5967-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5967-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF5967-480.webp",
         "w": 320,
@@ -7313,12 +8493,17 @@
     "height": 7728,
     "takenAt": "2026-10-01T18:35:26",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdABtTXg4sElgoauPAAP6/uLpHnEOgXbjJYG2GvE2nZoYxjMo/kM6prEM7mMYnU4N1t+9qJYuEVHjCKs+YIL5eRDzSrXo+e3H6wQpwrDQVW54AAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdABtsLlKsVV3rqbLAAP6/uLpHnEOgXLnjAwHzqXJapbHihoi3kf6akSBOVrsuuysTiyRvEgio8XR/N2uK7l6GSA/xl+e3H70aKJuI35trKrc8AA=="
   },
   {
     "id": "DSCF5968",
     "src": "/photos/DSCF5968-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5968-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF5968-480.webp",
         "w": 320,
@@ -7344,12 +8529,17 @@
     "height": 7728,
     "takenAt": "2026-10-01T19:25:56",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADQAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JQBOgBAr4qrpD+p0E08AA/nk6Ag+nWd7TES0VYaUfz1ct0XLzatd+Sd3B9dwTGHoIFCEqyozGo2PKMMIVBv9Lhlw5CXUyWWVbFI/oqT59QqZGwb94DksAAAA="
+    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYwCdACBXxV5upa0fTZL1YAD+eToCD6dZ3tMRLRVhpPxLGlFYql1GKUvXTxb73jJgrQ09DlQYJCDxrw9o9hETEtTokAiTDggCGm7l3QtzMsuGQMi2rDwAAAA="
   },
   {
     "id": "DSCF5980",
     "src": "/photos/DSCF5980-2400.webp",
     "srcset": [
+      {
+        "src": "/photos/DSCF5980-240.webp",
+        "w": 160,
+        "h": 240
+      },
       {
         "src": "/photos/DSCF5980-480.webp",
         "w": 320,
@@ -7375,6 +8565,6 @@
     "height": 7728,
     "takenAt": "2026-10-01T19:29:53",
     "camera": "FUJIFILM X-T5",
-    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAwCdASoMABIAPu1iqU2ppaOiMAgBMB2JYgCdL1AB0ZyHjtgx8icAAPy0NI59pTeEnjAECImY+KQl3Tes50rrWbrTs+UBK+5Inh36tdgrQ5oNUJw5vMTczsBb9Dd4aFVAAA=="
+    "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBACdASoMABIAPu1iqU2ppaOiMAgBMB2JYgCdL1AB0ZyKPq3nP2hqAAD8tDSOfaU3hJ4wBAiJmPikJd03rOdK61m607PlASw4rQ6Rw7v2CtDmg1QnDm8xTdMQiZibarrR9AAA"
   }
 ]

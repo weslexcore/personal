@@ -19,7 +19,7 @@ Three viewing modes, switchable from the button in each mode (the `…` button o
 ### Adding your photos
 
 1. Put your originals (full-size JPEG/PNG/HEIC/etc.) in `photos-original/`. That folder is gitignored; keep it backed up elsewhere.
-2. Run `yarn photos`. For each original it writes WebP derivatives at 480, 960, 1600 and 2400px on the long edge to `public/photos/`, reads EXIF (date taken, camera), generates a blur placeholder, and writes `content/photos.json`. Re-runs are incremental; `yarn photos --force` re-encodes everything. Derivatives whose original has been removed are deleted.
+2. Run `yarn photos`. For each original it writes WebP derivatives at 240, 480, 960, 1600 and 2400px on the long edge to `public/photos/`, reads EXIF (date taken, camera), generates a blur placeholder, and writes `content/photos.json`. Re-runs are incremental; `yarn photos --force` re-encodes everything. Derivatives whose original has been removed are deleted.
 3. Commit `public/photos/` and `content/photos.json`. They are plain static files, so Vercel serves them from the CDN with no image transformations.
 4. Optionally edit `title` and `location` per photo in `content/photos.json`. Re-running `yarn photos` keeps those edits (matched by filename).
 
