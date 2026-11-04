@@ -6,6 +6,7 @@ import { groupPhotos } from "@/lib/dates";
 import { site } from "@/lib/site";
 import type { ModeProps } from "../PhotoGallery";
 import { ModeMenu } from "../ModeMenu";
+import { readWindowParam, setWindowParam } from "../modes";
 import { ChevronDown, Film, Frame, Grid as GridIcon, Photo } from "../Icons";
 import { HomeContent } from "@/components/HomeContent";
 import { Grid } from "./Grid";
@@ -22,7 +23,12 @@ export function MacLibrary({ photos, onOpen, mode, onModeChange }: ModeProps) {
   const [view, setView] = useState<LibraryView>("all");
   const [columns, setColumns] = useState(7);
   // Green light toggles between full screen and a floating window over the home page.
-  const [windowed, setWindowed] = useState(false);
+  // The state lives in the URL (?window=1) so a windowed view can be shared.
+  const [windowed, setWindowedState] = useState(readWindowParam);
+  const setWindowed = (next: boolean) => {
+    setWindowedState(next);
+    setWindowParam(next);
+  };
   const scroller = useRef<HTMLDivElement>(null);
 
   const years = useMemo(() => groupPhotos(photos, "year"), [photos]);
@@ -83,7 +89,7 @@ export function MacLibrary({ photos, onOpen, mode, onModeChange }: ModeProps) {
               </svg>
             </Link>
             <button
-              onClick={() => setWindowed((w) => !w)}
+              onClick={() => setWindowed(!windowed)}
               aria-label={windowed ? "Enter full screen" : "Exit full screen"}
               aria-pressed={windowed}
               title={windowed ? "Enter Full Screen" : "Exit Full Screen"}

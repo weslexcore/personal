@@ -2,7 +2,15 @@
 
 import { useCallback, useMemo, useState } from "react";
 import type { Photo } from "@/lib/photos";
-import { readMode, readPhotoParam, setMode, setPhotoParam, useMode, type ModeId } from "./modes";
+import {
+  readMode,
+  readPhotoParam,
+  setMode,
+  setPhotoParam,
+  setWindowParam,
+  useMode,
+  type ModeId,
+} from "./modes";
 import { Viewer } from "./Viewer";
 import { LibraryMode } from "./library/LibraryMode";
 import { MuseumMode } from "./museum/MuseumMode";
@@ -51,6 +59,8 @@ export function PhotoGallery({ photos }: { photos: Photo[] }) {
     (m: ModeId) => {
       setMode(m);
       if (viewerIndex === null) setPhotoParam(null);
+      // The floating window only exists in the desktop Library.
+      if (m !== "library") setWindowParam(false);
     },
     [viewerIndex],
   );

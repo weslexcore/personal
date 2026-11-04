@@ -75,3 +75,26 @@ export function setPhotoParam(id: string | null) {
     window.history.replaceState(window.history.state, "", url);
   } catch {}
 }
+
+const WINDOW_KEY = "window";
+
+/** Whether the desktop Library should open as a floating window (?window=1). Client only. */
+export function readWindowParam(): boolean {
+  if (typeof window === "undefined") return false;
+  try {
+    return new URLSearchParams(window.location.search).get(WINDOW_KEY) === "1";
+  } catch {
+    return false;
+  }
+}
+
+/** Write (or clear) ?window=1 without adding history entries. */
+export function setWindowParam(windowed: boolean) {
+  try {
+    const url = new URL(window.location.href);
+    if ((url.searchParams.get(WINDOW_KEY) === "1") === windowed) return;
+    if (windowed) url.searchParams.set(WINDOW_KEY, "1");
+    else url.searchParams.delete(WINDOW_KEY);
+    window.history.replaceState(window.history.state, "", url);
+  } catch {}
+}
