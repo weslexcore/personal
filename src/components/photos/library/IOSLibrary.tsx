@@ -63,18 +63,18 @@ export function IOSLibrary({ photos, onOpen, mode, onModeChange }: ModeProps) {
         {view === "all" && (
           <Grid photos={photos} columns={3} gap={1} onOpen={onOpen} sizes="34vw" />
         )}
-        {view === "days" &&
-          days.map((g) => (
-            <section key={g.key} className="mb-1">
-              <h2 className="px-4 pb-2 pt-5">
-                <span className="block text-[22px] font-bold leading-tight">{g.label}</span>
-                {g.sublabel && (
-                  <span className="block text-[15px] text-neutral-500">{g.sublabel}</span>
-                )}
-              </h2>
-              <Grid photos={g.photos} columns={3} gap={1} onOpen={onOpen} sizes="34vw" />
-            </section>
-          ))}
+        {view === "days" && (
+          <div className="px-4 pt-3">
+            <CollectionCards
+              groups={days}
+              columns={1}
+              aspect="4 / 3"
+              sizes="100vw"
+              rotate
+              onSelect={(_, photo) => onOpen(photo)}
+            />
+          </div>
+        )}
         {view === "months" && (
           <div className="px-4 pt-3">
             <CollectionCards
@@ -82,6 +82,7 @@ export function IOSLibrary({ photos, onOpen, mode, onModeChange }: ModeProps) {
               columns={1}
               aspect="4 / 4.6"
               sizes="100vw"
+              rotate
               onSelect={() => setView("days")}
             />
           </div>
