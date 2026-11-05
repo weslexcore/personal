@@ -41,6 +41,7 @@ export function MacLibrary({ photos, onOpen, mode, onModeChange }: ModeProps) {
   }, [view]);
 
   const sizes = `${Math.ceil(100 / columns)}vw`;
+  const dayColumns = Math.max(2, Math.round((columns * 2) / 3));
   const ModeIcon = MODE_ICON[mode];
   const modeLabel = mode === "library" ? "Library" : mode === "museum" ? "Museum" : "Contact Sheet";
 
@@ -172,16 +173,18 @@ export function MacLibrary({ photos, onOpen, mode, onModeChange }: ModeProps) {
           {view === "all" && (
             <Grid photos={photos} columns={columns} gap={2} onOpen={onOpen} sizes={sizes} />
           )}
-          {view === "days" &&
-            days.map((g) => (
-              <section key={g.key} className="mb-6">
-                <h2 className="flex items-baseline gap-2 px-2 pb-2 pt-4">
-                  <span className="text-[15px] font-bold">{g.label}</span>
-                  {g.sublabel && <span className="text-neutral-500">{g.sublabel}</span>}
-                </h2>
-                <Grid photos={g.photos} columns={columns} gap={2} onOpen={onOpen} sizes={sizes} />
-              </section>
-            ))}
+          {view === "days" && (
+            <div className="p-4">
+              <CollectionCards
+                groups={days}
+                columns={dayColumns}
+                aspect="4 / 3"
+                sizes={`${Math.ceil(100 / dayColumns)}vw`}
+                rotate
+                onSelect={(_, photo) => onOpen(photo)}
+              />
+            </div>
+          )}
           {view === "months" && (
             <div className="p-4">
               <CollectionCards
@@ -189,6 +192,7 @@ export function MacLibrary({ photos, onOpen, mode, onModeChange }: ModeProps) {
                 columns={Math.max(2, Math.round(columns / 2))}
                 aspect="4 / 3"
                 sizes="40vw"
+                rotate
                 onSelect={() => setView("days")}
               />
             </div>
